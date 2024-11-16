@@ -1,0 +1,3121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-16">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="relationship" type="string" />
+      <attribute id="1" title="citation" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Paul Teller" label="Paul Teller">
+        <viz:color r="234" g="175" b="185" a="1.0" />
+      </node>
+      <node id="Donald J. Trump" label="Donald J. Trump">
+        <viz:color r="222" g="71" b="160" a="1.0" />
+      </node>
+      <node id="David S. Cordish" label="David S. Cordish">
+        <viz:color r="226" g="218" b="117" a="1.0" />
+      </node>
+      <node id="Reed S. Cordish" label="Reed S. Cordish">
+        <viz:color r="109" g="235" b="103" a="1.0" />
+      </node>
+      <node id="Cui Tiankai" label="Cui Tiankai">
+        <viz:color r="93" g="57" b="54" a="1.0" />
+      </node>
+      <node id="Jared Kushner" label="Jared Kushner">
+        <viz:color r="2" g="89" b="135" a="1.0" />
+      </node>
+      <node id="Hope Hicks" label="Hope Hicks">
+        <viz:color r="234" g="206" b="111" a="1.0" />
+      </node>
+      <node id="Andrew D. Koenig" label="Andrew D. Koenig">
+        <viz:color r="47" g="137" b="60" a="1.0" />
+      </node>
+      <node id="Joseph Lai" label="Joseph Lai">
+        <viz:color r="89" g="164" b="8" a="1.0" />
+      </node>
+      <node id="Noel Francisco" label="Noel Francisco">
+        <viz:color r="228" g="72" b="186" a="1.0" />
+      </node>
+      <node id="Charles G. Koch" label="Charles G. Koch">
+        <viz:color r="227" g="73" b="64" a="1.0" />
+      </node>
+      <node id="William I. Koch" label="William I. Koch">
+        <viz:color r="33" g="154" b="85" a="1.0" />
+      </node>
+      <node id="Marc Short" label="Marc Short">
+        <viz:color r="24" g="99" b="38" a="1.0" />
+      </node>
+      <node id="David H. Koch" label="David H. Koch">
+        <viz:color r="81" g="29" b="157" a="1.0" />
+      </node>
+      <node id="Nikki Haley" label="Nikki Haley">
+        <viz:color r="20" g="97" b="147" a="1.0" />
+      </node>
+      <node id="John Destefano" label="John Destefano">
+        <viz:color r="69" g="50" b="213" a="1.0" />
+      </node>
+      <node id="Chloe Murdoch" label="Chloe Murdoch">
+        <viz:color r="1" g="39" b="104" a="1.0" />
+      </node>
+      <node id="Ivanka Trump" label="Ivanka Trump">
+        <viz:color r="153" g="27" b="222" a="1.0" />
+      </node>
+      <node id="Rupert Murdoch" label="Rupert Murdoch">
+        <viz:color r="141" g="208" b="125" a="1.0" />
+      </node>
+      <node id="Wendi Deng Murdoch" label="Wendi Deng Murdoch">
+        <viz:color r="90" g="97" b="195" a="1.0" />
+      </node>
+      <node id="Scott Gast" label="Scott Gast">
+        <viz:color r="29" g="46" b="142" a="1.0" />
+      </node>
+      <node id="Brad Parscale" label="Brad Parscale">
+        <viz:color r="1" g="206" b="247" a="1.0" />
+      </node>
+      <node id="Alexander Nix" label="Alexander Nix">
+        <viz:color r="50" g="178" b="199" a="1.0" />
+      </node>
+      <node id="Stephen Vaden" label="Stephen Vaden">
+        <viz:color r="1" g="48" b="170" a="1.0" />
+      </node>
+      <node id="Sonny Perdue" label="Sonny Perdue">
+        <viz:color r="20" g="226" b="43" a="1.0" />
+      </node>
+      <node id="Carlos Diaz-rosillo" label="Carlos Diaz-rosillo">
+        <viz:color r="113" g="108" b="166" a="1.0" />
+      </node>
+      <node id="Sheri A. Dillon" label="Sheri A. Dillon">
+        <viz:color r="140" g="193" b="59" a="1.0" />
+      </node>
+      <node id="Peter Thiel" label="Peter Thiel">
+        <viz:color r="136" g="123" b="43" a="1.0" />
+      </node>
+      <node id="Keith Schiller" label="Keith Schiller">
+        <viz:color r="172" g="140" b="223" a="1.0" />
+      </node>
+      <node id="Serhiy Lyovochkin" label="Serhiy Lyovochkin">
+        <viz:color r="124" g="130" b="106" a="1.0" />
+      </node>
+      <node id="Paul Manafort" label="Paul Manafort">
+        <viz:color r="146" g="147" b="41" a="1.0" />
+      </node>
+      <node id="Maryanne Trump Barry" label="Maryanne Trump Barry">
+        <viz:color r="189" g="248" b="42" a="1.0" />
+      </node>
+      <node id="Kevin Marino" label="Kevin Marino">
+        <viz:color r="175" g="112" b="250" a="1.0" />
+      </node>
+      <node id="Gary Cohn" label="Gary Cohn">
+        <viz:color r="186" g="240" b="127" a="1.0" />
+      </node>
+      <node id="Anthony Scaramucci" label="Anthony Scaramucci">
+        <viz:color r="115" g="48" b="40" a="1.0" />
+      </node>
+      <node id="Kirill Dmitriev" label="Kirill Dmitriev">
+        <viz:color r="41" g="4" b="113" a="1.0" />
+      </node>
+      <node id="Robert A. Iger" label="Robert A. Iger">
+        <viz:color r="29" g="111" b="234" a="1.0" />
+      </node>
+      <node id="Alexander Gray" label="Alexander Gray">
+        <viz:color r="230" g="160" b="243" a="1.0" />
+      </node>
+      <node id="Rebekah Mercer" label="Rebekah Mercer">
+        <viz:color r="177" g="13" b="85" a="1.0" />
+      </node>
+      <node id="Robert Mercer" label="Robert Mercer">
+        <viz:color r="21" g="62" b="215" a="1.0" />
+      </node>
+      <node id="Sylvain Mirochnikoff" label="Sylvain Mirochnikoff">
+        <viz:color r="250" g="150" b="122" a="1.0" />
+      </node>
+      <node id="Stephen Bannon" label="Stephen Bannon">
+        <viz:color r="122" g="190" b="100" a="1.0" />
+      </node>
+      <node id="Kellyanne Conway" label="Kellyanne Conway">
+        <viz:color r="28" g="47" b="200" a="1.0" />
+      </node>
+      <node id="Rudy Giuliani" label="Rudy Giuliani">
+        <viz:color r="145" g="23" b="76" a="1.0" />
+      </node>
+      <node id="Wilbur Ross" label="Wilbur Ross">
+        <viz:color r="57" g="55" b="209" a="1.0" />
+      </node>
+      <node id="Ken Kurson" label="Ken Kurson">
+        <viz:color r="202" g="147" b="249" a="1.0" />
+      </node>
+      <node id="Alan Hammer" label="Alan Hammer">
+        <viz:color r="245" g="60" b="6" a="1.0" />
+      </node>
+      <node id="Charles Kushner" label="Charles Kushner">
+        <viz:color r="112" g="106" b="145" a="1.0" />
+      </node>
+      <node id="Mary T. Barra" label="Mary T. Barra">
+        <viz:color r="128" g="51" b="26" a="1.0" />
+      </node>
+      <node id="Grace Murdoch" label="Grace Murdoch">
+        <viz:color r="130" g="226" b="186" a="1.0" />
+      </node>
+      <node id="Sally Priebus" label="Sally Priebus">
+        <viz:color r="42" g="244" b="78" a="1.0" />
+      </node>
+      <node id="Reince Priebus" label="Reince Priebus">
+        <viz:color r="207" g="100" b="209" a="1.0" />
+      </node>
+      <node id="Scott Walker" label="Scott Walker">
+        <viz:color r="111" g="35" b="246" a="1.0" />
+      </node>
+      <node id="Andrew Bremberg" label="Andrew Bremberg">
+        <viz:color r="75" g="71" b="227" a="1.0" />
+      </node>
+      <node id="Julian Assange" label="Julian Assange">
+        <viz:color r="18" g="44" b="216" a="1.0" />
+      </node>
+      <node id="Roger J. Stone, Jr." label="Roger J. Stone, Jr.">
+        <viz:color r="155" g="5" b="177" a="1.0" />
+      </node>
+      <node id="Albert Ross Sr." label="Albert Ross Sr.">
+        <viz:color r="70" g="70" b="106" a="1.0" />
+      </node>
+      <node id="Omarosé Onee Manigault" label="Omarosé Onee Manigault">
+        <viz:color r="235" g="186" b="198" a="1.0" />
+      </node>
+      <node id="Sebastian Gorka" label="Sebastian Gorka">
+        <viz:color r="180" g="91" b="214" a="1.0" />
+      </node>
+      <node id="Richard Marvin &quot;dick&quot; Devos Jr." label="Richard Marvin &quot;dick&quot; Devos Jr.">
+        <viz:color r="216" g="48" b="197" a="1.0" />
+      </node>
+      <node id="Betsy Devos" label="Betsy Devos">
+        <viz:color r="171" g="122" b="153" a="1.0" />
+      </node>
+      <node id="Mike Pence" label="Mike Pence">
+        <viz:color r="195" g="104" b="68" a="1.0" />
+      </node>
+      <node id="Marc Lotter" label="Marc Lotter">
+        <viz:color r="81" g="42" b="193" a="1.0" />
+      </node>
+      <node id="Jarrod P. Agen" label="Jarrod P. Agen">
+        <viz:color r="240" g="39" b="44" a="1.0" />
+      </node>
+      <node id="Josh Pitcock" label="Josh Pitcock">
+        <viz:color r="80" g="150" b="74" a="1.0" />
+      </node>
+      <node id="Marty Obst" label="Marty Obst">
+        <viz:color r="43" g="137" b="57" a="1.0" />
+      </node>
+      <node id="Sarah Makin" label="Sarah Makin">
+        <viz:color r="253" g="172" b="145" a="1.0" />
+      </node>
+      <node id="Nick Ayers" label="Nick Ayers">
+        <viz:color r="210" g="84" b="211" a="1.0" />
+      </node>
+      <node id="Ryan Jarmula" label="Ryan Jarmula">
+        <viz:color r="76" g="206" b="35" a="1.0" />
+      </node>
+      <node id="Russ Vought" label="Russ Vought">
+        <viz:color r="13" g="4" b="16" a="1.0" />
+      </node>
+      <node id="Thomas E. Wheeler" label="Thomas E. Wheeler">
+        <viz:color r="238" g="218" b="164" a="1.0" />
+      </node>
+      <node id="Jen Pavlik" label="Jen Pavlik">
+        <viz:color r="207" g="68" b="243" a="1.0" />
+      </node>
+      <node id="John Gray" label="John Gray">
+        <viz:color r="34" g="219" b="165" a="1.0" />
+      </node>
+      <node id="Strauss Zelnick" label="Strauss Zelnick">
+        <viz:color r="184" g="55" b="160" a="1.0" />
+      </node>
+      <node id="Linda Bean" label="Linda Bean">
+        <viz:color r="49" g="31" b="47" a="1.0" />
+      </node>
+      <node id="Steven Mnuchin" label="Steven Mnuchin">
+        <viz:color r="229" g="202" b="173" a="1.0" />
+      </node>
+      <node id="Edward Lampert" label="Edward Lampert">
+        <viz:color r="101" g="23" b="127" a="1.0" />
+      </node>
+      <node id="George Soros" label="George Soros">
+        <viz:color r="132" g="251" b="135" a="1.0" />
+      </node>
+      <node id="Benjamin Netanyahu" label="Benjamin Netanyahu">
+        <viz:color r="156" g="58" b="88" a="1.0" />
+      </node>
+      <node id="Richard Lefrak" label="Richard Lefrak">
+        <viz:color r="2" g="253" b="183" a="1.0" />
+      </node>
+      <node id="Stephen Munisteri" label="Stephen Munisteri">
+        <viz:color r="92" g="17" b="96" a="1.0" />
+      </node>
+      <node id="James Schultz" label="James Schultz">
+        <viz:color r="124" g="96" b="132" a="1.0" />
+      </node>
+      <node id="Gerrit Lansing" label="Gerrit Lansing">
+        <viz:color r="92" g="156" b="75" a="1.0" />
+      </node>
+      <node id="Eric Trump" label="Eric Trump">
+        <viz:color r="232" g="183" b="145" a="1.0" />
+      </node>
+      <node id="Donald Trump Jr." label="Donald Trump Jr.">
+        <viz:color r="166" g="36" b="59" a="1.0" />
+      </node>
+      <node id="Felipe Yaryura" label="Felipe Yaryura">
+        <viz:color r="16" g="244" b="175" a="1.0" />
+      </node>
+      <node id="Cindy Simms" label="Cindy Simms">
+        <viz:color r="135" g="10" b="16" a="1.0" />
+      </node>
+      <node id="Richard Goettlich" label="Richard Goettlich">
+        <viz:color r="93" g="251" b="27" a="1.0" />
+      </node>
+      <node id="Don Mcgahn" label="Don Mcgahn">
+        <viz:color r="127" g="111" b="110" a="1.0" />
+      </node>
+      <node id="James Burnham" label="James Burnham">
+        <viz:color r="213" g="52" b="123" a="1.0" />
+      </node>
+      <node id="Blake Delaplane" label="Blake Delaplane">
+        <viz:color r="145" g="71" b="217" a="1.0" />
+      </node>
+      <node id="Shannon Mcgahn" label="Shannon Mcgahn">
+        <viz:color r="75" g="3" b="64" a="1.0" />
+      </node>
+      <node id="Annie Donaldson" label="Annie Donaldson">
+        <viz:color r="173" g="51" b="60" a="1.0" />
+      </node>
+      <node id="Greg Katsas" label="Greg Katsas">
+        <viz:color r="201" g="208" b="159" a="1.0" />
+      </node>
+      <node id="David Morrell" label="David Morrell">
+        <viz:color r="210" g="249" b="93" a="1.0" />
+      </node>
+      <node id="Aaron Schock" label="Aaron Schock">
+        <viz:color r="137" g="80" b="141" a="1.0" />
+      </node>
+      <node id="Andy Puzder" label="Andy Puzder">
+        <viz:color r="143" g="22" b="185" a="1.0" />
+      </node>
+      <node id="William P. Foley" label="William P. Foley">
+        <viz:color r="59" g="247" b="48" a="1.0" />
+      </node>
+      <node id="Harold G. Hamm" label="Harold G. Hamm">
+        <viz:color r="186" g="44" b="4" a="1.0" />
+      </node>
+      <node id="Scott Pruitt" label="Scott Pruitt">
+        <viz:color r="5" g="104" b="60" a="1.0" />
+      </node>
+      <node id="Jessica Ditto" label="Jessica Ditto">
+        <viz:color r="174" g="178" b="193" a="1.0" />
+      </node>
+      <node id="Matthew Griswold Bevin" label="Matthew Griswold Bevin">
+        <viz:color r="135" g="138" b="144" a="1.0" />
+      </node>
+      <node id="Sergey I. Kislyak" label="Sergey I. Kislyak">
+        <viz:color r="7" g="13" b="65" a="1.0" />
+      </node>
+      <node id="Catherine Bray Griffith" label="Catherine Bray Griffith">
+        <viz:color r="174" g="40" b="96" a="1.0" />
+      </node>
+      <node id="Wells Griffith" label="Wells Griffith">
+        <viz:color r="127" g="95" b="221" a="1.0" />
+      </node>
+      <node id="Christine Chao" label="Christine Chao">
+        <viz:color r="225" g="191" b="34" a="1.0" />
+      </node>
+      <node id="James S.C. Chao" label="James S.C. Chao">
+        <viz:color r="8" g="114" b="113" a="1.0" />
+      </node>
+      <node id="Elaine Chao" label="Elaine Chao">
+        <viz:color r="103" g="214" b="83" a="1.0" />
+      </node>
+      <node id="George T. Conway Iii" label="George T. Conway Iii">
+        <viz:color r="89" g="86" b="165" a="1.0" />
+      </node>
+      <node id="Alex Shnaider" label="Alex Shnaider">
+        <viz:color r="177" g="122" b="231" a="1.0" />
+      </node>
+      <node id="Erik Prince" label="Erik Prince">
+        <viz:color r="199" g="209" b="123" a="1.0" />
+      </node>
+      <node id="Jennifer Mercer" label="Jennifer Mercer">
+        <viz:color r="103" g="244" b="218" a="1.0" />
+      </node>
+      <node id="Julia Hahn" label="Julia Hahn">
+        <viz:color r="203" g="218" b="155" a="1.0" />
+      </node>
+      <node id="Patrick Caddell" label="Patrick Caddell">
+        <viz:color r="118" g="201" b="204" a="1.0" />
+      </node>
+      <node id="Angela Chao" label="Angela Chao">
+        <viz:color r="9" g="224" b="210" a="1.0" />
+      </node>
+      <node id="Walter J. &quot;jay&quot; Clayton Iii" label="Walter J. &quot;jay&quot; Clayton Iii">
+        <viz:color r="124" g="253" b="52" a="1.0" />
+      </node>
+      <node id="Roger Khafif" label="Roger Khafif">
+        <viz:color r="184" g="191" b="118" a="1.0" />
+      </node>
+      <node id="Paul Winfree" label="Paul Winfree">
+        <viz:color r="204" g="206" b="44" a="1.0" />
+      </node>
+      <node id="Yury Zaytsev" label="Yury Zaytsev">
+        <viz:color r="71" g="252" b="68" a="1.0" />
+      </node>
+      <node id="Sergei Millian" label="Sergei Millian">
+        <viz:color r="255" g="208" b="156" a="1.0" />
+      </node>
+      <node id="Jack Weisselberg" label="Jack Weisselberg">
+        <viz:color r="242" g="89" b="58" a="1.0" />
+      </node>
+      <node id="Allen Weisselberg" label="Allen Weisselberg">
+        <viz:color r="71" g="97" b="71" a="1.0" />
+      </node>
+      <node id="Xi Jinping" label="Xi Jinping">
+        <viz:color r="127" g="155" b="169" a="1.0" />
+      </node>
+      <node id="Terry Branstad" label="Terry Branstad">
+        <viz:color r="47" g="88" b="184" a="1.0" />
+      </node>
+      <node id="Boris Epshteyn" label="Boris Epshteyn">
+        <viz:color r="207" g="89" b="119" a="1.0" />
+      </node>
+      <node id="John Gore" label="John Gore">
+        <viz:color r="49" g="83" b="176" a="1.0" />
+      </node>
+      <node id="Jeff Sessions" label="Jeff Sessions">
+        <viz:color r="134" g="196" b="65" a="1.0" />
+      </node>
+      <node id="Bethany Scully" label="Bethany Scully">
+        <viz:color r="88" g="25" b="193" a="1.0" />
+      </node>
+      <node id="Ike Perlmutter" label="Ike Perlmutter">
+        <viz:color r="103" g="144" b="104" a="1.0" />
+      </node>
+      <node id="Esther Kushner" label="Esther Kushner">
+        <viz:color r="121" g="157" b="90" a="1.0" />
+      </node>
+      <node id="Seryl Kushner" label="Seryl Kushner">
+        <viz:color r="61" g="188" b="59" a="1.0" />
+      </node>
+      <node id="Nicole Kushner Meyer" label="Nicole Kushner Meyer">
+        <viz:color r="110" g="24" b="116" a="1.0" />
+      </node>
+      <node id="Joshua Kushner" label="Joshua Kushner">
+        <viz:color r="90" g="20" b="135" a="1.0" />
+      </node>
+      <node id="Jim Mcgreevey" label="Jim Mcgreevey">
+        <viz:color r="11" g="151" b="30" a="1.0" />
+      </node>
+      <node id="Murray Kushner" label="Murray Kushner">
+        <viz:color r="245" g="90" b="199" a="1.0" />
+      </node>
+      <node id="Dara Orbach" label="Dara Orbach">
+        <viz:color r="138" g="136" b="210" a="1.0" />
+      </node>
+      <node id="Bob Dole" label="Bob Dole">
+        <viz:color r="7" g="188" b="97" a="1.0" />
+      </node>
+      <node id="Robert Lighthizer" label="Robert Lighthizer">
+        <viz:color r="147" g="203" b="175" a="1.0" />
+      </node>
+      <node id="Steven Roth" label="Steven Roth">
+        <viz:color r="85" g="102" b="60" a="1.0" />
+      </node>
+      <node id="Recep Tayyip Erdogan" label="Recep Tayyip Erdogan">
+        <viz:color r="164" g="245" b="99" a="1.0" />
+      </node>
+      <node id="Ben Carson" label="Ben Carson">
+        <viz:color r="253" g="50" b="20" a="1.0" />
+      </node>
+      <node id="Barry Bennett" label="Barry Bennett">
+        <viz:color r="122" g="35" b="189" a="1.0" />
+      </node>
+      <node id="Dmytro Firtash" label="Dmytro Firtash">
+        <viz:color r="187" g="80" b="111" a="1.0" />
+      </node>
+      <node id="Pam Mulvaney" label="Pam Mulvaney">
+        <viz:color r="153" g="241" b="40" a="1.0" />
+      </node>
+      <node id="Mick Mulvaney" label="Mick Mulvaney">
+        <viz:color r="100" g="64" b="132" a="1.0" />
+      </node>
+      <node id="George Gigicos" label="George Gigicos">
+        <viz:color r="91" g="107" b="224" a="1.0" />
+      </node>
+      <node id="Mitch Mcconnell" label="Mitch Mcconnell">
+        <viz:color r="49" g="167" b="134" a="1.0" />
+      </node>
+      <node id="W.E.“ed” Bosarge" label="W.E.“ed” Bosarge">
+        <viz:color r="106" g="194" b="68" a="1.0" />
+      </node>
+      <node id="H. B. Hicks" label="H. B. Hicks">
+        <viz:color r="88" g="85" b="192" a="1.0" />
+      </node>
+      <node id="Madeleine Westerhout" label="Madeleine Westerhout">
+        <viz:color r="27" g="130" b="39" a="1.0" />
+      </node>
+      <node id="Rhona Graff Riccio" label="Rhona Graff Riccio">
+        <viz:color r="63" g="126" b="90" a="1.0" />
+      </node>
+      <node id="Sean Cairncross" label="Sean Cairncross">
+        <viz:color r="89" g="128" b="4" a="1.0" />
+      </node>
+      <node id="Joseph Hagin" label="Joseph Hagin">
+        <viz:color r="216" g="20" b="237" a="1.0" />
+      </node>
+      <node id="Stephen A. Feinberg" label="Stephen A. Feinberg">
+        <viz:color r="36" g="193" b="0" a="1.0" />
+      </node>
+      <node id="Tom Price" label="Tom Price">
+        <viz:color r="194" g="207" b="97" a="1.0" />
+      </node>
+      <node id="Lucius Joseph Riccio" label="Lucius Joseph Riccio">
+        <viz:color r="55" g="62" b="131" a="1.0" />
+      </node>
+      <node id="Bernard R. Diamond" label="Bernard R. Diamond">
+        <viz:color r="97" g="178" b="221" a="1.0" />
+      </node>
+      <node id="Joseph Meyer" label="Joseph Meyer">
+        <viz:color r="32" g="14" b="39" a="1.0" />
+      </node>
+      <node id="Rick Perry" label="Rick Perry">
+        <viz:color r="12" g="100" b="182" a="1.0" />
+      </node>
+      <node id="Anita Thigpen Perry" label="Anita Thigpen Perry">
+        <viz:color r="208" g="142" b="13" a="1.0" />
+      </node>
+      <node id="Peter Holt" label="Peter Holt">
+        <viz:color r="46" g="102" b="90" a="1.0" />
+      </node>
+      <node id="Justin Clark" label="Justin Clark">
+        <viz:color r="164" g="87" b="23" a="1.0" />
+      </node>
+      <node id="Lindsay Walters" label="Lindsay Walters">
+        <viz:color r="95" g="116" b="203" a="1.0" />
+      </node>
+      <node id="Nicolas Sarkozy" label="Nicolas Sarkozy">
+        <viz:color r="165" g="255" b="143" a="1.0" />
+      </node>
+      <node id="Thomas J. Barrack Jr." label="Thomas J. Barrack Jr.">
+        <viz:color r="57" g="214" b="148" a="1.0" />
+      </node>
+      <node id="Vince Haley" label="Vince Haley">
+        <viz:color r="128" g="229" b="197" a="1.0" />
+      </node>
+      <node id="David M. Friedman" label="David M. Friedman">
+        <viz:color r="177" g="116" b="165" a="1.0" />
+      </node>
+      <node id="James Mattis" label="James Mattis">
+        <viz:color r="35" g="236" b="25" a="1.0" />
+      </node>
+      <node id="Ross Worthington" label="Ross Worthington">
+        <viz:color r="127" g="34" b="113" a="1.0" />
+      </node>
+      <node id="Arthur G. Cohen" label="Arthur G. Cohen">
+        <viz:color r="170" g="26" b="61" a="1.0" />
+      </node>
+      <node id="Robert Kraft" label="Robert Kraft">
+        <viz:color r="192" g="5" b="141" a="1.0" />
+      </node>
+      <node id="Kalpesh Mehta" label="Kalpesh Mehta">
+        <viz:color r="93" g="198" b="121" a="1.0" />
+      </node>
+      <node id="Aydin Dogan" label="Aydin Dogan">
+        <viz:color r="88" g="139" b="98" a="1.0" />
+      </node>
+      <node id="Mehmet Ali Yalcindag" label="Mehmet Ali Yalcindag">
+        <viz:color r="117" g="86" b="60" a="1.0" />
+      </node>
+      <node id="Peter Navarro" label="Peter Navarro">
+        <viz:color r="163" g="169" b="10" a="1.0" />
+      </node>
+      <node id="Kathleen Troia Mcfarland" label="Kathleen Troia Mcfarland">
+        <viz:color r="222" g="139" b="94" a="1.0" />
+      </node>
+      <node id="Miles Berger" label="Miles Berger">
+        <viz:color r="227" g="84" b="0" a="1.0" />
+      </node>
+      <node id="Michael D. Cohen" label="Michael D. Cohen">
+        <viz:color r="137" g="158" b="95" a="1.0" />
+      </node>
+      <node id="Ginni Rometty" label="Ginni Rometty">
+        <viz:color r="165" g="35" b="12" a="1.0" />
+      </node>
+      <node id="Stephanie Grisham" label="Stephanie Grisham">
+        <viz:color r="145" g="246" b="233" a="1.0" />
+      </node>
+      <node id="Vladimir Putin" label="Vladimir Putin">
+        <viz:color r="223" g="147" b="133" a="1.0" />
+      </node>
+      <node id="Lev Leviev" label="Lev Leviev">
+        <viz:color r="63" g="105" b="210" a="1.0" />
+      </node>
+      <node id="Martin Sorrell" label="Martin Sorrell">
+        <viz:color r="15" g="1" b="19" a="1.0" />
+      </node>
+      <node id="Sean Spicer" label="Sean Spicer">
+        <viz:color r="240" g="76" b="144" a="1.0" />
+      </node>
+      <node id="Mangal Prabhat Lodha" label="Mangal Prabhat Lodha">
+        <viz:color r="145" g="177" b="116" a="1.0" />
+      </node>
+      <node id="Asher Abehsera" label="Asher Abehsera">
+        <viz:color r="130" g="9" b="182" a="1.0" />
+      </node>
+      <node id="Joseph Kellogg" label="Joseph Kellogg">
+        <viz:color r="73" g="13" b="248" a="1.0" />
+      </node>
+      <node id="Dan Scavino" label="Dan Scavino">
+        <viz:color r="72" g="226" b="74" a="1.0" />
+      </node>
+      <node id="Jeremy Katz" label="Jeremy Katz">
+        <viz:color r="237" g="157" b="183" a="1.0" />
+      </node>
+      <node id="Sergey Kislyak" label="Sergey Kislyak">
+        <viz:color r="248" g="64" b="109" a="1.0" />
+      </node>
+      <node id="Michael Flynn" label="Michael Flynn">
+        <viz:color r="199" g="227" b="71" a="1.0" />
+      </node>
+      <node id="Rex Tillerson" label="Rex Tillerson">
+        <viz:color r="90" g="18" b="221" a="1.0" />
+      </node>
+      <node id="Igor Sechin" label="Igor Sechin">
+        <viz:color r="219" g="228" b="107" a="1.0" />
+      </node>
+      <node id="Alexander Novak" label="Alexander Novak">
+        <viz:color r="206" g="121" b="90" a="1.0" />
+      </node>
+      <node id="Aras Agalarov" label="Aras Agalarov">
+        <viz:color r="9" g="139" b="90" a="1.0" />
+      </node>
+      <node id="Emin Agalarov" label="Emin Agalarov">
+        <viz:color r="198" g="229" b="205" a="1.0" />
+      </node>
+      <node id="Christine Ciccone" label="Christine Ciccone">
+        <viz:color r="138" g="161" b="8" a="1.0" />
+      </node>
+      <node id="Newt Gingrich" label="Newt Gingrich">
+        <viz:color r="90" g="126" b="193" a="1.0" />
+      </node>
+      <node id="Carter Page" label="Carter Page">
+        <viz:color r="191" g="221" b="164" a="1.0" />
+      </node>
+      <node id="Rick Snyder" label="Rick Snyder">
+        <viz:color r="238" g="76" b="231" a="1.0" />
+      </node>
+      <node id="Carl C. Icahn" label="Carl C. Icahn">
+        <viz:color r="55" g="79" b="98" a="1.0" />
+      </node>
+      <node id="Elena Gorlova" label="Elena Gorlova">
+        <viz:color r="243" g="42" b="2" a="1.0" />
+      </node>
+      <node id="Chris Christie" label="Chris Christie">
+        <viz:color r="192" g="79" b="10" a="1.0" />
+      </node>
+      <node id="Bill Mcginley" label="Bill Mcginley">
+        <viz:color r="159" g="128" b="148" a="1.0" />
+      </node>
+      <node id="Jason D. Meister" label="Jason D. Meister">
+        <viz:color r="83" g="223" b="75" a="1.0" />
+      </node>
+      <node id="Timothy Pataki" label="Timothy Pataki">
+        <viz:color r="163" g="16" b="80" a="1.0" />
+      </node>
+      <node id="Rick Dearborn" label="Rick Dearborn">
+        <viz:color r="243" g="112" b="67" a="1.0" />
+      </node>
+      <node id="Ben Howard" label="Ben Howard">
+        <viz:color r="134" g="15" b="78" a="1.0" />
+      </node>
+      <node id="Raj Shah" label="Raj Shah">
+        <viz:color r="146" g="116" b="17" a="1.0" />
+      </node>
+      <node id="Jamie Dimon" label="Jamie Dimon">
+        <viz:color r="134" g="123" b="109" a="1.0" />
+      </node>
+      <node id="Uttam Dhillon" label="Uttam Dhillon">
+        <viz:color r="124" g="232" b="255" a="1.0" />
+      </node>
+      <node id="Thomas Pyle" label="Thomas Pyle">
+        <viz:color r="96" g="176" b="18" a="1.0" />
+      </node>
+      <node id="John Eisenberg" label="John Eisenberg">
+        <viz:color r="25" g="160" b="4" a="1.0" />
+      </node>
+      <node id="Michael J. Ellis" label="Michael J. Ellis">
+        <viz:color r="112" g="145" b="138" a="1.0" />
+      </node>
+      <node id="Brian Burns" label="Brian Burns">
+        <viz:color r="215" g="104" b="38" a="1.0" />
+      </node>
+      <node id="Edwin Meese" label="Edwin Meese">
+        <viz:color r="160" g="8" b="186" a="1.0" />
+      </node>
+      <node id="Andeliz Castillo" label="Andeliz Castillo">
+        <viz:color r="27" g="233" b="184" a="1.0" />
+      </node>
+      <node id="Sam Nunberg" label="Sam Nunberg">
+        <viz:color r="121" g="182" b="108" a="1.0" />
+      </node>
+      <node id="Jennifer Korn" label="Jennifer Korn">
+        <viz:color r="54" g="22" b="144" a="1.0" />
+      </node>
+      <node id="Michael Pompeo" label="Michael Pompeo">
+        <viz:color r="56" g="127" b="183" a="1.0" />
+      </node>
+      <node id="Corey Lewandowski" label="Corey Lewandowski">
+        <viz:color r="140" g="177" b="7" a="1.0" />
+      </node>
+      <node id="Tom Bossert" label="Tom Bossert">
+        <viz:color r="245" g="196" b="146" a="1.0" />
+      </node>
+      <node id="Curtis Dubay" label="Curtis Dubay">
+        <viz:color r="109" g="2" b="100" a="1.0" />
+      </node>
+      <node id="Dina Powell" label="Dina Powell">
+        <viz:color r="153" g="149" b="241" a="1.0" />
+      </node>
+      <node id="John F. Kelly" label="John F. Kelly">
+        <viz:color r="84" g="201" b="72" a="1.0" />
+      </node>
+      <node id="Linda Mcmahon" label="Linda Mcmahon">
+        <viz:color r="22" g="121" b="77" a="1.0" />
+      </node>
+      <node id="Edwin Feulner" label="Edwin Feulner">
+        <viz:color r="51" g="60" b="222" a="1.0" />
+      </node>
+      <node id="Christopher Ruddy" label="Christopher Ruddy">
+        <viz:color r="171" g="30" b="197" a="1.0" />
+      </node>
+      <node id="Elon Musk" label="Elon Musk">
+        <viz:color r="63" g="172" b="140" a="1.0" />
+      </node>
+      <node id="Phil Ruffin" label="Phil Ruffin">
+        <viz:color r="54" g="245" b="175" a="1.0" />
+      </node>
+      <node id="Ashley Marquis" label="Ashley Marquis">
+        <viz:color r="16" g="152" b="108" a="1.0" />
+      </node>
+      <node id="Joyce Meyer" label="Joyce Meyer">
+        <viz:color r="113" g="239" b="153" a="1.0" />
+      </node>
+      <node id="Travis Kalanick" label="Travis Kalanick">
+        <viz:color r="172" g="82" b="185" a="1.0" />
+      </node>
+      <node id="Michael Fascitelli" label="Michael Fascitelli">
+        <viz:color r="217" g="185" b="147" a="1.0" />
+      </node>
+      <node id="Sam Clovis" label="Sam Clovis">
+        <viz:color r="216" g="101" b="133" a="1.0" />
+      </node>
+      <node id="Prince Alwaleed Bin Talalthe" label="Prince Alwaleed Bin Talalthe">
+        <viz:color r="212" g="39" b="189" a="1.0" />
+      </node>
+      <node id="Alexander Acosta" label="Alexander Acosta">
+        <viz:color r="197" g="69" b="209" a="1.0" />
+      </node>
+      <node id="Ryan Zinke" label="Ryan Zinke">
+        <viz:color r="244" g="142" b="153" a="1.0" />
+      </node>
+      <node id="Stephen Miller" label="Stephen Miller">
+        <viz:color r="215" g="103" b="95" a="1.0" />
+      </node>
+      <node id="Melania Trump" label="Melania Trump">
+        <viz:color r="77" g="103" b="41" a="1.0" />
+      </node>
+      <node id="Stephen B. Meister" label="Stephen B. Meister">
+        <viz:color r="29" g="71" b="195" a="1.0" />
+      </node>
+      <node id="Kathryn Talento" label="Kathryn Talento">
+        <viz:color r="182" g="22" b="217" a="1.0" />
+      </node>
+      <node id="Indra Nooyi" label="Indra Nooyi">
+        <viz:color r="223" g="46" b="145" a="1.0" />
+      </node>
+      <node id="Marc E. Kasowitz" label="Marc E. Kasowitz">
+        <viz:color r="12" g="19" b="201" a="1.0" />
+      </node>
+      <node id="Cliff Sims" label="Cliff Sims">
+        <viz:color r="206" g="156" b="36" a="1.0" />
+      </node>
+      <node id="Shahira Knight" label="Shahira Knight">
+        <viz:color r="33" g="163" b="149" a="1.0" />
+      </node>
+      <node id="Jason D. Greenblatt" label="Jason D. Greenblatt">
+        <viz:color r="168" g="180" b="42" a="1.0" />
+      </node>
+      <node id="Alexander Angelson" label="Alexander Angelson">
+        <viz:color r="27" g="45" b="169" a="1.0" />
+      </node>
+      <node id="Helen Ferre" label="Helen Ferre">
+        <viz:color r="221" g="169" b="3" a="1.0" />
+      </node>
+      <node id="John Mcentee" label="John Mcentee">
+        <viz:color r="242" g="74" b="7" a="1.0" />
+      </node>
+      <node id="Oleg Miserva" label="Oleg Miserva">
+        <viz:color r="41" g="80" b="87" a="1.0" />
+      </node>
+      <node id="Dan Coats" label="Dan Coats">
+        <viz:color r="222" g="47" b="255" a="1.0" />
+      </node>
+      <node id="Mike Baselice" label="Mike Baselice">
+        <viz:color r="240" g="219" b="231" a="1.0" />
+      </node>
+      <node id="Victor Pinchuk" label="Victor Pinchuk">
+        <viz:color r="102" g="60" b="252" a="1.0" />
+      </node>
+      <node id="Ado Machida" label="Ado Machida">
+        <viz:color r="158" g="193" b="22" a="1.0" />
+      </node>
+      <node id="Eric Ueland" label="Eric Ueland">
+        <viz:color r="82" g="51" b="181" a="1.0" />
+      </node>
+      <node id="Ajit Pai" label="Ajit Pai">
+        <viz:color r="128" g="150" b="162" a="1.0" />
+      </node>
+      <node id="Bill Stepien" label="Bill Stepien">
+        <viz:color r="180" g="131" b="73" a="1.0" />
+      </node>
+      <node id="Steven N. Cheung" label="Steven N. Cheung">
+        <viz:color r="2" g="92" b="86" a="1.0" />
+      </node>
+      <node id="Robert Goad" label="Robert Goad">
+        <viz:color r="15" g="120" b="163" a="1.0" />
+      </node>
+      <node id="Sean Hannity" label="Sean Hannity">
+        <viz:color r="135" g="100" b="38" a="1.0" />
+      </node>
+      <node id="Brian Baudreau" label="Brian Baudreau">
+        <viz:color r="110" g="20" b="237" a="1.0" />
+      </node>
+      <node id="James Sherk" label="James Sherk">
+        <viz:color r="199" g="3" b="103" a="1.0" />
+      </node>
+      <node id="David Shulkin" label="David Shulkin">
+        <viz:color r="113" g="175" b="194" a="1.0" />
+      </node>
+      <node id="Stephen A. Schwarzman" label="Stephen A. Schwarzman">
+        <viz:color r="33" g="46" b="138" a="1.0" />
+      </node>
+      <node id="George E. Norcross Iii" label="George E. Norcross Iii">
+        <viz:color r="108" g="120" b="230" a="1.0" />
+      </node>
+      <node id="Joe Hagin" label="Joe Hagin">
+        <viz:color r="79" g="92" b="22" a="1.0" />
+      </node>
+      <node id="James Uthmeier" label="James Uthmeier">
+        <viz:color r="142" g="215" b="55" a="1.0" />
+      </node>
+      <node id="Michelle Bachmann" label="Michelle Bachmann">
+        <viz:color r="248" g="200" b="166" a="1.0" />
+      </node>
+      <node id="John Kyl" label="John Kyl">
+        <viz:color r="203" g="240" b="211" a="1.0" />
+      </node>
+      <node id="Yousef Al-otaiba" label="Yousef Al-otaiba">
+        <viz:color r="97" g="245" b="132" a="1.0" />
+      </node>
+      <node id="David Wildstein" label="David Wildstein">
+        <viz:color r="81" g="111" b="61" a="1.0" />
+      </node>
+      <node id="Avrahm Berkowitz" label="Avrahm Berkowitz">
+        <viz:color r="95" g="194" b="255" a="1.0" />
+      </node>
+      <node id="Susan Pompeo" label="Susan Pompeo">
+        <viz:color r="139" g="52" b="163" a="1.0" />
+      </node>
+      <node id="Viktor Tkachuk" label="Viktor Tkachuk">
+        <viz:color r="148" g="176" b="92" a="1.0" />
+      </node>
+      <node id="Nigel Farage" label="Nigel Farage">
+        <viz:color r="8" g="91" b="91" a="1.0" />
+      </node>
+      <node id="Tucker Carlson" label="Tucker Carlson">
+        <viz:color r="81" g="170" b="51" a="1.0" />
+      </node>
+      <node id="Justin Weniger" label="Justin Weniger">
+        <viz:color r="180" g="202" b="134" a="1.0" />
+      </node>
+      <node id="Eric Holcomb" label="Eric Holcomb">
+        <viz:color r="34" g="169" b="90" a="1.0" />
+      </node>
+      <node id="Michael Murray" label="Michael Murray">
+        <viz:color r="233" g="121" b="225" a="1.0" />
+      </node>
+      <node id="Andriy Zaika" label="Andriy Zaika">
+        <viz:color r="60" g="219" b="137" a="1.0" />
+      </node>
+      <node id="Russell Flicker" label="Russell Flicker">
+        <viz:color r="131" g="147" b="20" a="1.0" />
+      </node>
+      <node id="Bonnie Haydon" label="Bonnie Haydon">
+        <viz:color r="88" g="148" b="31" a="1.0" />
+      </node>
+      <node id="Vanessa Trump" label="Vanessa Trump">
+        <viz:color r="186" g="110" b="232" a="1.0" />
+      </node>
+      <node id="Abdul Rahman Al-assir" label="Abdul Rahman Al-assir">
+        <viz:color r="44" g="64" b="215" a="1.0" />
+      </node>
+      <node id="Mallory Hunter" label="Mallory Hunter">
+        <viz:color r="217" g="207" b="126" a="1.0" />
+      </node>
+      <node id="Katie Walsh" label="Katie Walsh">
+        <viz:color r="25" g="219" b="43" a="1.0" />
+      </node>
+      <node id="Caroline May" label="Caroline May">
+        <viz:color r="114" g="55" b="171" a="1.0" />
+      </node>
+      <node id="David Horowitz" label="David Horowitz">
+        <viz:color r="186" g="182" b="211" a="1.0" />
+      </node>
+      <node id="Garrett Murch" label="Garrett Murch">
+        <viz:color r="228" g="118" b="132" a="1.0" />
+      </node>
+      <node id="Margaret Chin" label="Margaret Chin">
+        <viz:color r="0" g="12" b="132" a="1.0" />
+      </node>
+      <node id="Stephanie Winston Wolkoff" label="Stephanie Winston Wolkoff">
+        <viz:color r="16" g="16" b="227" a="1.0" />
+      </node>
+      <node id="Viktor F. Yanukovych" label="Viktor F. Yanukovych">
+        <viz:color r="168" g="67" b="176" a="1.0" />
+      </node>
+      <node id="Rinat Akhmetov" label="Rinat Akhmetov">
+        <viz:color r="51" g="214" b="125" a="1.0" />
+      </node>
+      <node id="Dmitry Firtash" label="Dmitry Firtash">
+        <viz:color r="25" g="27" b="24" a="1.0" />
+      </node>
+      <node id="Paulo Figueiredo Filho" label="Paulo Figueiredo Filho">
+        <viz:color r="49" g="229" b="195" a="1.0" />
+      </node>
+      <node id="Mike Ferguson" label="Mike Ferguson">
+        <viz:color r="84" g="72" b="116" a="1.0" />
+      </node>
+      <node id="Lindsey Reynolds" label="Lindsey Reynolds">
+        <viz:color r="217" g="43" b="93" a="1.0" />
+      </node>
+      <node id="Ryan Doherty" label="Ryan Doherty">
+        <viz:color r="96" g="251" b="113" a="1.0" />
+      </node>
+      <node id="Avram Lebor" label="Avram Lebor">
+        <viz:color r="174" g="231" b="190" a="1.0" />
+      </node>
+      <node id="Sam Brownback" label="Sam Brownback">
+        <viz:color r="241" g="227" b="164" a="1.0" />
+      </node>
+      <node id="Richard Devos" label="Richard Devos">
+        <viz:color r="22" g="50" b="9" a="1.0" />
+      </node>
+      <node id="Rob Speyer" label="Rob Speyer">
+        <viz:color r="152" g="146" b="153" a="1.0" />
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Paul Teller" target="Donald J. Trump" id="0" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534342-Teller-Paul.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Joe Hagin" id="1" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy chief of staff for operations" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Kellyanne Conway" id="2" weight="1">
+        <attvalues>
+          <attvalue for="0" value="White House Counselor" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Wilbur Ross" id="3" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of Commerce" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="George E. Norcross Iii" id="4" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;whose friendship with Mr. Trump dates to the president’s Atlantic City years,&quot; per the New York Times" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/02/18/us/mar-a-lago-trump-ethics-winter-white-house.html?_r=0" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Jared Kushner" id="5" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Senior adviser" />
+          <attvalue for="1" value="https://www.washingtonpost.com/news/post-politics/wp/2017/01/09/tumps-son-in-law-jared-kushner-expected-to-join-white-house-as-a-senior-adviser/?utm_term=.a3958e1d3829" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Stephen A. Schwarzman" id="6" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Chair of Trump's Strategic and Policy forum" />
+          <attvalue for="1" value="http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="David Shulkin" id="7" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of Veterans Affairs" />
+          <attvalue for="1" value="http://www.usnews.com/news/national-news/articles/2017-02-09/10-things-you-didnt-know-about-david-shulkin" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="James Sherk" id="8" weight="1">
+        <attvalues>
+          <attvalue for="0" value="White House Domestic Policy Council labor and employment advisor" />
+          <attvalue for="1" value="https://www.bna.com/trumps-new-labor-n57982084346/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Brian Baudreau" id="9" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former driver" />
+          <attvalue for="1" value="https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Sean Hannity" id="10" weight="1">
+        <attvalues>
+          <attvalue for="0" value="A top touchstone outside the White House, according to the New York Times" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Robert Goad" id="11" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534080-Goad-Robert.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Steven N. Cheung" id="12" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Assistant communications director" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534333-Cheung-Steven-N.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Bill Stepien" id="13" weight="1">
+        <attvalues>
+          <attvalue for="0" value="White House political director" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Ajit Pai" id="14" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Appointed chairman of the Federal Communications Commission" />
+          <attvalue for="1" value="http://www.usatoday.com/story/tech/news/2017/01/23/new-fcc-chairman-ajit-pai-no-net-neutrality-fan/96967372/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Allen Weisselberg" id="15" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;One of Donald Trump's longtime confidants,&quot; per the Wall Street Journal" />
+          <attvalue for="1" value="http://blogs.wsj.com/cfo/2016/11/05/donald-trumps-loyal-numbers-man/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Eric Ueland" id="16" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Leader&quot; in the transition team per CNN" />
+          <attvalue for="1" value="http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Ado Machida" id="17" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of policy implementation for Trump transition team" />
+          <attvalue for="1" value="http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/ | https://www.linkedin.com/in/ado-machida-68a9a64" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Thomas J. Barrack Jr." id="18" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Inauguration committee chairman" />
+          <attvalue for="1" value="https://www.donaldjtrump.com/press-releases/president-elect-trump-announces-presidentialinaugural-committee-leader" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Mehmet Ali Yalcindag" id="19" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Business partners" />
+          <attvalue for="1" value="http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Victor Pinchuk" id="20" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Trump made video appearance for Pinchuk's convention" />
+          <attvalue for="1" value="https://www.buzzfeed.com/paulmcleod/trump-foundation-received-150000-donation-in-exchange-for-20?utm_term=.wtQZdJa2V#.llzLxNkYw" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Russ Vought" id="21" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Part of OMB transition team" />
+          <attvalue for="1" value="http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Mike Baselice" id="22" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Pollster for Trump's presidential campaign" />
+          <attvalue for="1" value="https://www.texastribune.org/2016/07/01/trump-campaign-turns-texas-political-talent/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Dan Coats" id="23" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of National Intelligence" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Oleg Miserva" id="24" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Miserva bought a Trump penthouse in Florida" />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Michael Flynn" id="25" weight="1">
+        <attvalues>
+          <attvalue for="0" value="National Security Advisor" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="John Mcentee" id="26" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Personal aide to the President" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Betsy Devos" id="27" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of Education" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Helen Ferre" id="28" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director media affairs" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534068-Ferre-Helen.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Andrew Bremberg" id="29" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Domestic policy advisor" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Alexander Angelson" id="30" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534231-Angelson-Alexander.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Scott Pruitt" id="31" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Administrator of the Environmental Protection Agency" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Jason D. Greenblatt" id="32" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special Representative for International Negotiations" />
+          <attvalue for="1" value="https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Wells Griffith" id="33" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Battleground states director for Trump campaign, senior adviser for the Department of Energy" />
+          <attvalue for="1" value="http://www.politico.com/story/2017/01/trumps-shadow-cabinet-234088 | https://www.documentcloud.org/documents/3460899-Wells-Griffith-LinkedIn-2017-02-13.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Jeff Sessions" id="34" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Attorney General" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Shahira Knight" id="35" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534038-Knight-Shahira-E.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Cliff Sims" id="36" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of White House message strategy" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534339-Sims-Cliff.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Marc E. Kasowitz" id="37" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Has represented &quot;President Donald J. Trump in a wide range of litigation matters for over 15 years,&quot; per bio" />
+          <attvalue for="1" value="http://www.kasowitz.com/marc-e-kasowitz/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Indra Nooyi" id="38" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Member of Trump's Strategic and Policy forum" />
+          <attvalue for="1" value="http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Reed S. Cordish" id="39" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Assistant to the President for intragovernmental and technology initiatives" />
+          <attvalue for="1" value="http://www.baltimoresun.com/news/maryland/politics/blog/bal-reed-cordish-to-join-trump-administration-20170105-story.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Kathryn Talento" id="40" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special advisor" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534341-Talento-Kathryn.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Stephen B. Meister" id="41" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Meister was Trump's attorney during a 2013 ethics suit of the NY AG" />
+          <attvalue for="1" value="http://www.nydailynews.com/blogs/dailypolitics/donald-trump-set-file-ethics-complaint-tuesday-ny-ag-eric-schneiderman-blog-entry-1.1697386 | http://www.newsweek.com/2015/10/30/trumps-big-atlantic-city-dump-385427.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Emin Agalarov" id="42" weight="1">
+        <attvalues>
+          <attvalue for="0" value="The Russian pop singer, son of billionaire real estate developer Aras Agalarov, says he befriended Trump" />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html | https://www.youtube.com/watch?v=iuZUNjFsgS8" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Melania Trump" id="43" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Stephen Miller" id="44" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Senior Advisor to the President for Policy" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Ryan Zinke" id="45" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of Interior" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Alexander Acosta" id="46" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Nominee for Labor Secretary" />
+          <attvalue for="1" value="http://abcnews.go.com/Politics/alexander-acosta-trumps-labor-secretary-nominee/story?id=45541559" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Prince Alwaleed Bin Talalthe" id="47" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;the billionaire [...] aided Trump during his corporate bankruptcies in the 1990s by purchasing his yacht, which provided him with desperately needed cash,&quot; per Newsweek" />
+          <attvalue for="1" value="http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Sam Clovis" id="48" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former senior policy advisor on campaign" />
+          <attvalue for="1" value="http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Michael Fascitelli" id="49" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Fascitelli is CEO of Vornado Realty Trust and donated the maximum to Trump's campaign" />
+          <attvalue for="1" value="https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Travis Kalanick" id="50" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former member of Trump's Strategic and Policy forum" />
+          <attvalue for="1" value="http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/ | http://www.recode.net/2017/2/2/14490950/travis-kalanick-uber-ceo-leaves-donald-trump-advisory-council" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Joyce Meyer" id="51" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534156-Meyer-Joyce-Y.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Ashley Marquis" id="52" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Chief of staff of the National Economic Council" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534134-Marquis-Ashley.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Phil Ruffin" id="53" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Mr. Trump has 20-odd business partners, but none is closer to him than Mr. Ruffin,&quot; per the New York Times" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Elon Musk" id="54" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Member of Trump's Strategic and Policy forum" />
+          <attvalue for="1" value="http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Christopher Ruddy" id="55" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;One of Trump's longtime friends,&quot; according to the Washington Post" />
+          <attvalue for="1" value="https://www.washingtonpost.com/news/powerpost/wp/2017/02/12/trump-friend-says-priebus-is-in-way-over-his-head/ | http://www.politico.com/story/2017/02/donald-trump-challenges-governing-presidency-234879" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Sonny Perdue" id="56" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of Agriculture" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/01/18/us/politics/sonny-perdue-agriculture-secretary.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Paul Manafort" id="57" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former campaign manager" />
+          <attvalue for="1" value="http://www.cnn.com/2016/08/19/politics/donald-trump-campaign-chairman-paul-manafort-resigns/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Edwin Feulner" id="58" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Leader&quot; in the transition team per CNN" />
+          <attvalue for="1" value="http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Linda Mcmahon" id="59" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Administrator of the Small Business Administration" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Julia Hahn" id="60" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy political strategist" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534111-Hahn-Julia.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="John F. Kelly" id="61" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of Department of Homeland Security" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Elaine Chao" id="62" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of Transportation" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Dina Powell" id="63" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Assistant to the president and senior counselor for economic initiatives" />
+          <attvalue for="1" value="https://www.bloomberg.com/politics/articles/2017-01-12/goldman-sachs-s-dina-powell-named-as-trump-s-economic-assistant" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Robert Lighthizer" id="64" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Nominee for U.S. Trade Representative" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Curtis Dubay" id="65" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Part of Treasury Department transition team" />
+          <attvalue for="1" value="http://thehill.com/policy/finance/307066-trump-taps-economists-investors-for-transition-team" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Tom Bossert" id="66" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Homeland Security Advisor" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Corey Lewandowski" id="67" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former campaign manager" />
+          <attvalue for="1" value="http://www.politico.com/blogs/on-media/2017/01/corey-lewandowski-joins-conservative-news-network-as-commentator-233559" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Michael Pompeo" id="68" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of CIA" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Reince Priebus" id="69" weight="1">
+        <attvalues>
+          <attvalue for="0" value="White House Chief of Staff" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Jennifer Korn" id="70" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy director" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534039-Korn-Jennifer.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Sam Nunberg" id="71" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former adviser" />
+          <attvalue for="1" value="http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Andeliz Castillo" id="72" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534453-Castillo-Andeliz.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Ivanka Trump" id="73" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Edwin Meese" id="74" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Leader&quot; in the transition team per CNN" />
+          <attvalue for="1" value="http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Brian Burns" id="75" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Ambassador to Ireland" />
+          <attvalue for="1" value="https://www.bostonglobe.com/news/politics/2017/01/11/donald-trump-taps-mar-lago-pal-with-massachusetts-ties-for-irish-ambassador-brian-burns/Jt2g5aX1CeVvA3O4RbrDMN/story.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Donald Trump Jr." id="76" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Michael J. Ellis" id="77" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534059-Ellis-Michael-J.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="John Eisenberg" id="78" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy assistant" />
+          <attvalue for="1" value="https://www.whitehouse.gov/the-press-office/2017/02/02/white-house-national-security-advisor-announces-nsc-senior-staff-0" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Thomas Pyle" id="79" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Head of the Department of Energy transition team" />
+          <attvalue for="1" value="http://www.latimes.com/politics/la-na-pol-trump-kochs-climate-20161205-story.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Uttam Dhillon" id="80" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534050-Dhillon-Uttam.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Terry Branstad" id="81" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Nominee for Ambassador to China" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Jamie Dimon" id="82" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Member of Trump's Strategic and Policy forum" />
+          <attvalue for="1" value="http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Raj Shah" id="83" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy communications director" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Ben Howard" id="84" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534135-Howard-Benjamin.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Sarah Makin" id="85" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3535103-Makin-Sarah.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Robert Mercer" id="86" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Major donor" />
+          <attvalue for="1" value="https://www.publicintegrity.org/2016/12/02/20504/what-we-knew-about-donald-trump-s-inner-circle-when-we-knew-it" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Rick Dearborn" id="87" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy chief of staff for legislative and intergovernmental affairs" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Timothy Pataki" id="88" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534160-Pataki-Timothy-a-New-Entrant-278-2017.html" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Jason D. Meister" id="89" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Worked on Trump's NY campaign, goes on Fox News as a Trump surrogate" />
+          <attvalue for="1" value="https://therealdeal.com/issues_articles/whos-jumping-ship/ | http://www.jasondmeister.com/media/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Bill Mcginley" id="90" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy assistant" />
+          <attvalue for="1" value="http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Barry Bennett" id="91" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Informal advisor to the Donald Trump campaign,&quot; per the Washington Post" />
+          <attvalue for="1" value="https://www.washingtonpost.com/news/post-politics/wp/2016/01/22/former-carson-campaign-manager-barry-bennett-is-quietly-advising-trumps-top-aides/?utm_term=.795d808dc8d2" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Chris Christie" id="92" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former leader of the presidential transition team" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1" />
+        </attvalues>
+      </edge>
+      <edge source="Donald J. Trump" target="Elena Gorlova" id="93" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Gorlova bought a Trump penthouse in Florida" />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html" />
+        </attvalues>
+      </edge>
+      <edge source="David S. Cordish" target="Donald J. Trump" id="94" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Friends" />
+          <attvalue for="1" value="http://www.baltimoresun.com/news/maryland/politics/blog/bal-reed-cordish-to-join-trump-administration-20170105-story.html" />
+        </attvalues>
+      </edge>
+      <edge source="David S. Cordish" target="Reed S. Cordish" id="95" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="http://www.baltimoresun.com/news/maryland/politics/blog/bal-reed-cordish-to-join-trump-administration-20170105-story.html" />
+        </attvalues>
+      </edge>
+      <edge source="Cui Tiankai" target="Jared Kushner" id="96" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Kushner and Cui have had an extensive ongoing dialogue that has been positive, according to a White House official,&quot; per Bloomberg" />
+          <attvalue for="1" value="https://www.bloomberg.com/politics/articles/2017-02-07/china-courts-ivanka-jared-kushner-to-smooth-ties-with-trump" />
+        </attvalues>
+      </edge>
+      <edge source="Jared Kushner" target="Rob Speyer" id="97" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Gave Kushner $50 million to help by a property from his father's company-Tishman Speyer" />
+          <attvalue for="1" value="http://nymag.com/realestate/features/53797/index5.html" />
+        </attvalues>
+      </edge>
+      <edge source="Hope Hicks" target="Donald J. Trump" id="98" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of Strategic Communications, White House" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534459-Hicks-Hope.html" />
+        </attvalues>
+      </edge>
+      <edge source="Andrew D. Koenig" target="Donald J. Trump" id="99" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534057-Koenig-Andrew-D.html" />
+        </attvalues>
+      </edge>
+      <edge source="Joseph Lai" target="Donald J. Trump" id="100" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534041-Lai-Joseph.html" />
+        </attvalues>
+      </edge>
+      <edge source="Noel Francisco" target="Donald J. Trump" id="101" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Principal Deputy Solicitor General" />
+          <attvalue for="1" value="http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/" />
+        </attvalues>
+      </edge>
+      <edge source="Charles G. Koch" target="David H. Koch" id="102" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="http://www.forbes.com/profile/koch/" />
+        </attvalues>
+      </edge>
+      <edge source="Charles G. Koch" target="Marc Short" id="103" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;the Koch brothers’ top political adviser in Washington and a trusted member of their inner circle for five years,&quot; per Politico" />
+          <attvalue for="1" value="http://www.politico.com/story/2016/02/marc-short-marco-rubio-219664" />
+        </attvalues>
+      </edge>
+      <edge source="Charles G. Koch" target="William I. Koch" id="104" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="http://www.forbes.com/profile/koch/" />
+        </attvalues>
+      </edge>
+      <edge source="Marc Short" target="Donald J. Trump" id="105" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of legislative affairs" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Marc Short" target="David H. Koch" id="106" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;the Koch brothers’ top political adviser in Washington and a trusted member of their inner circle for five years,&quot; per Politico" />
+          <attvalue for="1" value="http://www.politico.com/story/2016/02/marc-short-marco-rubio-219664" />
+        </attvalues>
+      </edge>
+      <edge source="David H. Koch" target="William I. Koch" id="107" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="http://www.forbes.com/profile/koch/" />
+        </attvalues>
+      </edge>
+      <edge source="Nikki Haley" target="Donald J. Trump" id="108" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Ambassador to the United Nations" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="John Destefano" target="Donald J. Trump" id="109" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of presidential personnel" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Chloe Murdoch" target="Wendi Deng Murdoch" id="110" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655" />
+        </attvalues>
+      </edge>
+      <edge source="Chloe Murdoch" target="Rupert Murdoch" id="111" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655" />
+        </attvalues>
+      </edge>
+      <edge source="Chloe Murdoch" target="Ivanka Trump" id="112" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former trustee" />
+          <attvalue for="1" value="https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655" />
+        </attvalues>
+      </edge>
+      <edge source="Ivanka Trump" target="Jared Kushner" id="113" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Ivanka Trump" target="Mehmet Ali Yalcindag" id="114" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Business partners" />
+          <attvalue for="1" value="http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html" />
+        </attvalues>
+      </edge>
+      <edge source="Ivanka Trump" target="Grace Murdoch" id="115" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former trustee" />
+          <attvalue for="1" value="https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655" />
+        </attvalues>
+      </edge>
+      <edge source="Ivanka Trump" target="Andriy Zaika" id="116" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Met in 2006, when Zaika was head of the Ukrainian Construction Consortium" />
+          <attvalue for="1" value="http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html" />
+        </attvalues>
+      </edge>
+      <edge source="Rupert Murdoch" target="Donald J. Trump" id="117" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;The president’s relationship with Mr. Murdoch is deeper and more enduring than most in his life, and the two commiserate and plot strategy in their phone calls, according to people close to both,&quot; according to the New York Times" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1 | http://nymag.com/daily/intelligencer/2017/01/megyn-kellys-departure-is-clue-about-future-of-fox-news.html | http://mediamatters.org/blog/2017/01/04/how-donald-trump-could-make-rupert-murdoch-even-more-powerful/214924" />
+        </attvalues>
+      </edge>
+      <edge source="Rupert Murdoch" target="Grace Murdoch" id="118" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655" />
+        </attvalues>
+      </edge>
+      <edge source="Wendi Deng Murdoch" target="Ivanka Trump" id="119" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Close friend,&quot; according to the Guardian" />
+          <attvalue for="1" value="https://www.theguardian.com/film/2016/oct/11/wendi-deng-murdoch-rupert-trump-sky-ladder-art-of-cai-guo-qiang" />
+        </attvalues>
+      </edge>
+      <edge source="Wendi Deng Murdoch" target="Grace Murdoch" id="120" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655" />
+        </attvalues>
+      </edge>
+      <edge source="Scott Gast" target="Donald J. Trump" id="121" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Senior associate counsel" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534078-Gast-Scott.html" />
+        </attvalues>
+      </edge>
+      <edge source="Brad Parscale" target="Donald J. Trump" id="122" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former digital director for Trump campaign" />
+          <attvalue for="1" value="http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263" />
+        </attvalues>
+      </edge>
+      <edge source="Brad Parscale" target="Alexander Nix" id="123" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Pascale says he hired Nix's company, Cambridge Analytica, to work on the campaign" />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/trumps-plan-for-a-comeback-includes-building-a-psychographic-profile-of-every-voter/2016/10/27/9064a706-9611-11e6-9b7c-57290af48a49_story.html?utm_term=.ec091285ddc0" />
+        </attvalues>
+      </edge>
+      <edge source="Alexander Nix" target="Donald J. Trump" id="124" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Worked on presidential campaign. May continue work for the administration." />
+          <attvalue for="1" value="https://www.theguardian.com/us-news/2016/nov/23/donald-trump-cambridge-analytica-steve-bannon" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen Vaden" target="Sonny Perdue" id="125" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant to Secretary of Agriculture" />
+          <attvalue for="1" value="http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/" />
+        </attvalues>
+      </edge>
+      <edge source="Carlos Diaz-rosillo" target="Donald J. Trump" id="126" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534022-Diaz-Rosillo-Carlos.html" />
+        </attvalues>
+      </edge>
+      <edge source="Sheri A. Dillon" target="Donald J. Trump" id="127" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Conflicts of interest lawyer" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/01/11/us/politics/trump-press-conference-transcript.html" />
+        </attvalues>
+      </edge>
+      <edge source="Peter Thiel" target="Donald J. Trump" id="128" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former transition team member" />
+          <attvalue for="1" value="http://www.politico.com/story/2017/01/peter-thiel-no-job-trump-administration-233523" />
+        </attvalues>
+      </edge>
+      <edge source="Keith Schiller" target="Donald J. Trump" id="129" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of Oval Office operations" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Serhiy Lyovochkin" target="Paul Manafort" id="130" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Manafort ran PR for Lyovochkin's campaign" />
+          <attvalue for="1" value="https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html" />
+        </attvalues>
+      </edge>
+      <edge source="Paul Manafort" target="Dmitry Firtash" id="131" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Worked together in bid for site of Drake Hotel in NYC" />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/in-business-as-in-politics-trump-adviser-no-stranger-to-controversial-figures/2016/04/26/970db232-08c7-11e6-b283-e79d81c63c1b_story.html?utm_term=.de35331c8594" />
+        </attvalues>
+      </edge>
+      <edge source="Paul Manafort" target="Rinat Akhmetov" id="132" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Manafort worked to improve image of Akhmetov's companies" />
+          <attvalue for="1" value="https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html" />
+        </attvalues>
+      </edge>
+      <edge source="Paul Manafort" target="Viktor F. Yanukovych" id="133" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Manafort ran PR for Yanukovych's campaign" />
+          <attvalue for="1" value="https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html" />
+        </attvalues>
+      </edge>
+      <edge source="Maryanne Trump Barry" target="Donald J. Trump" id="134" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Maryanne Trump Barry" target="Kevin Marino" id="135" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Marino served as Barry's law clerk" />
+          <attvalue for="1" value="http://www.khmarino.com/attorney_bio_marino.html" />
+        </attvalues>
+      </edge>
+      <edge source="Kevin Marino" target="Bill Stepien" id="136" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Marino served as Stepien's attorney during the Bridgegate trial" />
+          <attvalue for="1" value="http://www.politico.com/story/2017/01/bill-stepien-donald-trump-christie-233199" />
+        </attvalues>
+      </edge>
+      <edge source="Gary Cohn" target="Donald J. Trump" id="137" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director United States National Economic Council" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Anthony Scaramucci" target="Donald J. Trump" id="138" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Considered for senior adviser to the President position" />
+          <attvalue for="1" value="https://mobile.nytimes.com/2017/02/01/us/politics/anthony-scaramucci-china-trump-administration.html" />
+        </attvalues>
+      </edge>
+      <edge source="Anthony Scaramucci" target="Kirill Dmitriev" id="139" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Met at Davos" />
+          <attvalue for="1" value="https://www.bloomberg.com/politics/articles/2017-01-17/in-davos-trump-aide-talks-deals-with-sanctioned-kremlin-fund" />
+        </attvalues>
+      </edge>
+      <edge source="Robert A. Iger" target="Donald J. Trump" id="140" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Member of Trump's Strategic and Policy forum" />
+          <attvalue for="1" value="http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/" />
+        </attvalues>
+      </edge>
+      <edge source="Alexander Gray" target="Donald J. Trump" id="141" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534083-Gray-Alexander.html" />
+        </attvalues>
+      </edge>
+      <edge source="Rebekah Mercer" target="Donald J. Trump" id="142" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Major donor" />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.b4e577d44785" />
+        </attvalues>
+      </edge>
+      <edge source="Rebekah Mercer" target="Kellyanne Conway" id="143" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;They're close,&quot; per The Atlantic" />
+          <attvalue for="1" value="https://www.theatlantic.com/politics/archive/2017/01/no-one-knows-what-the-powerful-mercers-really-want/514529/" />
+        </attvalues>
+      </edge>
+      <edge source="Rebekah Mercer" target="Stephen Bannon" id="144" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Tied at the hip,&quot; per a source to The Hill" />
+          <attvalue for="1" value="http://thehill.com/homenews/campaign/291772-billionaire-father-and-daughter-linked-to-trump-shakeup" />
+        </attvalues>
+      </edge>
+      <edge source="Rebekah Mercer" target="Sylvain Mirochnikoff" id="145" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.9cf5b5040519" />
+        </attvalues>
+      </edge>
+      <edge source="Rebekah Mercer" target="Robert Mercer" id="146" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.b4e577d44785" />
+        </attvalues>
+      </edge>
+      <edge source="Robert Mercer" target="Nigel Farage" id="147" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Close friends,&quot; per the Guardian" />
+          <attvalue for="1" value="https://www.theguardian.com/politics/2017/mar/04/nigel-oakes-cambridge-analytica-what-role-brexit-trump" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen Bannon" target="Donald J. Trump" id="148" weight="1">
+        <attvalues>
+          <attvalue for="0" value="White House Chief Strategist and Senior Advisor" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen Bannon" target="Robert Mercer" id="149" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Bannon served as the Mercer family's &quot;political advisor,&quot; per the Washington Post" />
+          <attvalue for="1" value="https://www.washingtonpost.com/graphics/politics/mercer-bannon/" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen Bannon" target="Patrick Caddell" id="150" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Bannon and Caddell have &quot;partnered on numerous projects,&quot; per The New Yorker" />
+          <attvalue for="1" value="http://www.newyorker.com/magazine/2017/03/27/the-reclusive-hedge-fund-tycoon-behind-the-trump-presidency" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen Bannon" target="Kellyanne Conway" id="151" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Conway is &quot;buddies&quot; with Bannon, per Elle" />
+          <attvalue for="1" value="http://www.elle.com/culture/career-politics/a43112/kellyanne-conway-profile/" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen Bannon" target="Julia Hahn" id="152" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Hahn is a protégée of Stephen Bannon,&quot; per The New Yorker" />
+          <attvalue for="1" value="http://www.newyorker.com/magazine/2017/02/13/becoming-steve-bannons-bannon" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen Bannon" target="Jennifer Mercer" id="153" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Bannon served as the Mercer family's &quot;political advisor,&quot; per the Washington Post" />
+          <attvalue for="1" value="https://www.washingtonpost.com/graphics/politics/mercer-bannon/" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen Bannon" target="Erik Prince" id="154" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Prince has a close relationship with Breitbart News and Steve Bannon,&quot; per The Intercept" />
+          <attvalue for="1" value="https://theintercept.com/2017/01/17/notorious-mercenary-erik-prince-is-advising-trump-from-the-shadows/" />
+        </attvalues>
+      </edge>
+      <edge source="Rudy Giuliani" target="Ken Kurson" id="155" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Worked on 2008 presidential campaign" />
+          <attvalue for="1" value="http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html" />
+        </attvalues>
+      </edge>
+      <edge source="Rudy Giuliani" target="Wilbur Ross" id="156" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Privatization advisor when Giuliani was mayor" />
+          <attvalue for="1" value="http://www.salon.com/2016/11/21/wilbur-ross-jr-rumored-to-be-donald-trumps-choice-for-commerce-secretary-owned-a-mine-where-12-miners-died-in-2006_partner/" />
+        </attvalues>
+      </edge>
+      <edge source="Wilbur Ross" target="James Uthmeier" id="157" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special advisor" />
+          <attvalue for="1" value="http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/" />
+        </attvalues>
+      </edge>
+      <edge source="Alan Hammer" target="Charles Kushner" id="158" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;has long worked with&quot; Kushner, per New York Magazine" />
+          <attvalue for="1" value="http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html" />
+        </attvalues>
+      </edge>
+      <edge source="Charles Kushner" target="Jared Kushner" id="159" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Charles Kushner" target="Dara Orbach" id="160" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/" />
+        </attvalues>
+      </edge>
+      <edge source="Charles Kushner" target="Murray Kushner" id="161" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html" />
+        </attvalues>
+      </edge>
+      <edge source="Charles Kushner" target="Jim Mcgreevey" id="162" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;the financial force&quot; behind the former governor's campaign, per New York Magazine" />
+          <attvalue for="1" value="http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html" />
+        </attvalues>
+      </edge>
+      <edge source="Charles Kushner" target="Joshua Kushner" id="163" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Charles Kushner" target="Nicole Kushner Meyer" id="164" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/" />
+        </attvalues>
+      </edge>
+      <edge source="Charles Kushner" target="Seryl Kushner" id="165" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/" />
+        </attvalues>
+      </edge>
+      <edge source="Charles Kushner" target="Esther Kushner" id="166" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html" />
+        </attvalues>
+      </edge>
+      <edge source="Mary T. Barra" target="Donald J. Trump" id="167" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Member of Trump's Strategic and Policy forum" />
+          <attvalue for="1" value="http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/" />
+        </attvalues>
+      </edge>
+      <edge source="Sally Priebus" target="Reince Priebus" id="168" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Reince Priebus" target="Katie Walsh" id="169" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former deputy chief of staff" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/ | http://www.politico.com/story/2017/03/trump-deputy-chief-of-staff-katie-walsh-moving-to-outside-political-groups-236706" />
+        </attvalues>
+      </edge>
+      <edge source="Reince Priebus" target="Mallory Hunter" id="170" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Executive assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534136-Hunter-Mallory.html" />
+        </attvalues>
+      </edge>
+      <edge source="Scott Walker" target="Andrew Bremberg" id="171" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Policy director for Walker's campaign" />
+          <attvalue for="1" value="http://www.modernhealthcare.com/article/20161111/NEWS/161119989?utm_source=modernhealthcare&amp;utm_medium=email&amp;utm_content=20161111-NEWS-161119989&amp;utm_campaign=mh-alert" />
+        </attvalues>
+      </edge>
+      <edge source="Julian Assange" target="Roger J. Stone, Jr." id="172" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Stone told the Guardian that he and Assange have a &quot;mutual friend&quot; who served as a backchannel for advance notice of WikiLeaks' Clinton-related releases" />
+          <attvalue for="1" value="https://www.theguardian.com/us-news/2016/nov/02/trump-adviser-clinton-emails-wikileaks-roger-stone" />
+        </attvalues>
+      </edge>
+      <edge source="Roger J. Stone, Jr." target="Donald J. Trump" id="173" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Longtime adviser,&quot; per Politico" />
+          <attvalue for="1" value="http://www.politico.com/story/2015/08/donald-trumps-debate-dirty-trickster-121098" />
+        </attvalues>
+      </edge>
+      <edge source="Albert Ross Sr." target="Omarosé Onee Manigault" id="174" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Mentored by" />
+          <attvalue for="1" value="http://www.omarosa.com/#" />
+        </attvalues>
+      </edge>
+      <edge source="Omarosé Onee Manigault" target="Donald J. Trump" id="175" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Assistant to the President and Director of Communications for the Office of Public Liaison" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Omarosé Onee Manigault" target="H. B. Hicks" id="176" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Mentored by" />
+          <attvalue for="1" value="http://www.omarosa.com/#" />
+        </attvalues>
+      </edge>
+      <edge source="Sebastian Gorka" target="Donald J. Trump" id="177" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy assistant" />
+          <attvalue for="1" value="http://www.cnn.com/2017/02/07/politics/kfile-gorka-on-fake-news/index.html" />
+        </attvalues>
+      </edge>
+      <edge source="Richard Marvin &quot;dick&quot; Devos Jr." target="Betsy Devos" id="178" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Betsy Devos" target="Erik Prince" id="179" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="https://theintercept.com/2017/01/17/notorious-mercenary-erik-prince-is-advising-trump-from-the-shadows/" />
+        </attvalues>
+      </edge>
+      <edge source="Betsy Devos" target="Richard Devos" id="180" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="Donald J. Trump" id="181" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Vice President" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="Marc Short" id="182" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Longtime aide,&quot; per CNN" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="John Gray" id="183" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Gray worked for Pence" />
+          <attvalue for="1" value="http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="Jen Pavlik" id="184" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy chief of staff" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="Thomas E. Wheeler" id="185" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Wheeler worked for Pence" />
+          <attvalue for="1" value="http://www.motherjones.com/politics/2017/02/justice-department-thomas-wheeler-presentations" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="Russ Vought" id="186" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former aide" />
+          <attvalue for="1" value="http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="Ryan Jarmula" id="187" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Jarmula &quot;served as a member of [Pence's] staff for a number of years,&quot; per the transition team" />
+          <attvalue for="1" value="https://greatagain.gov/policy-team-32afa7145773" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="Nick Ayers" id="188" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Ayers is &quot;one of [Pence's] top political advsiors,&quot; per Politico" />
+          <attvalue for="1" value="http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="Sarah Makin" id="189" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of public engagement and intergovernmental affairs" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3535103-Makin-Sarah.html" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="Marty Obst" id="190" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Obst is a &quot;top Pence aide,&quot; per Politico" />
+          <attvalue for="1" value="http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="Josh Pitcock" id="191" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Chief of staff" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="Jarrod P. Agen" id="192" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of communications" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534451-Agen-Jarrod.html" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Pence" target="Marc Lotter" id="193" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Press secretary" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3535104-Lotter-Marc.html" />
+        </attvalues>
+      </edge>
+      <edge source="Marc Lotter" target="Donald J. Trump" id="194" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3535104-Lotter-Marc.html" />
+        </attvalues>
+      </edge>
+      <edge source="Jarrod P. Agen" target="Donald J. Trump" id="195" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534451-Agen-Jarrod.html" />
+        </attvalues>
+      </edge>
+      <edge source="Jarrod P. Agen" target="Rick Snyder" id="196" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former chief of staff" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534451-Agen-Jarrod.html" />
+        </attvalues>
+      </edge>
+      <edge source="Ryan Jarmula" target="Donald J. Trump" id="197" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534032-Jarmula-Ryan.html" />
+        </attvalues>
+      </edge>
+      <edge source="Thomas E. Wheeler" target="Jeff Sessions" id="198" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Sessions appointed Wheeler to Deputy Assistant Attorney General. Wheeler was also appointed head of the DOJ's Civil Rights Division as an Acting Assistant Attorney General." />
+          <attvalue for="1" value="https://www.nytimes.com/2017/02/28/magazine/jeff-sessions-stephen-bannon-justice-department.html?_r=0 | https://www.buzzfeed.com/zoetillman/heres-who-is-running-the-justice-department-right-now | https://www.justice.gov/crt" />
+        </attvalues>
+      </edge>
+      <edge source="John Gray" target="Donald J. Trump" id="199" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Part of OMB transition team" />
+          <attvalue for="1" value="http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts" />
+        </attvalues>
+      </edge>
+      <edge source="Strauss Zelnick" target="Jared Kushner" id="200" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;close with Kushner,&quot; per New York Magazine" />
+          <attvalue for="1" value="http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html" />
+        </attvalues>
+      </edge>
+      <edge source="Linda Bean" target="Donald J. Trump" id="201" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Donor" />
+          <attvalue for="1" value="http://www.nbcnews.com/business/business-news/l-l-bean-embroiled-spat-over-donation-trump-campaign-n706236" />
+        </attvalues>
+      </edge>
+      <edge source="Steven Mnuchin" target="Donald J. Trump" id="202" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of Treasury" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Steven Mnuchin" target="George Soros" id="203" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Mnuchin worked for Soros' fund" />
+          <attvalue for="1" value="http://www.vanityfair.com/news/2016/11/george-soros-declares-war-on-trump" />
+        </attvalues>
+      </edge>
+      <edge source="Steven Mnuchin" target="Edward Lampert" id="204" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former college roommates; Mnuchin has a position in an entity connected to Lampert" />
+          <attvalue for="1" value="https://www.washingtonpost.com/news/wonk/wp/2017/01/19/treasury-nominee-initially-omitted-more-than-100-million-from-disclosures-democratic-memo-shows/?postshare=3221484835948504&amp;tid=ss_tw&amp;utm_term=.e7b4eb5ed0a8" />
+        </attvalues>
+      </edge>
+      <edge source="Benjamin Netanyahu" target="Jared Kushner" id="205" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Longtime family friends, per Reuters" />
+          <attvalue for="1" value="http://www.reuters.com/article/us-usa-trump-israel-scene-idUSKBN15U2PA" />
+        </attvalues>
+      </edge>
+      <edge source="Benjamin Netanyahu" target="Charles Kushner" id="206" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Longtime family friends, per Reuters" />
+          <attvalue for="1" value="http://www.reuters.com/article/us-usa-trump-israel-scene-idUSKBN15U2PA" />
+        </attvalues>
+      </edge>
+      <edge source="Richard Lefrak" target="Donald J. Trump" id="207" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;one of Trump's few close friends in New York real estate,&quot; per New York Magazine and co-head of his new infrastructure council according to the Wall Street Journal" />
+          <attvalue for="1" value="http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html | https://www.wsj.com/articles/donald-trump-asks-richard-lefrak-steven-roth-to-monitor-infrastructure-plans-costs-1484591989" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen Munisteri" target="Donald J. Trump" id="208" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534157-Munisteri-Stephen-P.html" />
+        </attvalues>
+      </edge>
+      <edge source="James Schultz" target="Donald J. Trump" id="209" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Senior associate counsel" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534346-Shultz-James.html" />
+        </attvalues>
+      </edge>
+      <edge source="Gerrit Lansing" target="Donald J. Trump" id="210" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former Chief Digital Officer" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534042-Lansing-Gerrit.html | http://www.politico.com/blogs/donald-trump-administration/2017/02/gerrit-lansing-trump-digital-chief-ousted-235268" />
+        </attvalues>
+      </edge>
+      <edge source="Eric Trump" target="Donald J. Trump" id="211" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Eric Trump" target="Ivanka Trump" id="212" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Eric Trump" target="Felipe Yaryura" id="213" weight="1">
+        <attvalues>
+          <attvalue for="0" value="The Argentine real estate developer is said to be friends with the Trump family; Yaryura and Eric Trump were photographed together at Trump's election night party" />
+          <attvalue for="1" value="http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump" />
+        </attvalues>
+      </edge>
+      <edge source="Eric Trump" target="Donald Trump Jr." id="214" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald Trump Jr." target="Ivanka Trump" id="215" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald Trump Jr." target="Jason D. Greenblatt" id="216" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Business partners" />
+          <attvalue for="1" value="Nexis" />
+        </attvalues>
+      </edge>
+      <edge source="Donald Trump Jr." target="Vanessa Trump" id="217" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Donald Trump Jr." target="Bonnie Haydon" id="218" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Father-in-law/son-in-law" />
+          <attvalue for="1" value="Nexis — NYT 11/19/2006" />
+        </attvalues>
+      </edge>
+      <edge source="Donald Trump Jr." target="Russell Flicker" id="219" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Business partners" />
+          <attvalue for="1" value="Nexis" />
+        </attvalues>
+      </edge>
+      <edge source="Donald Trump Jr." target="Andriy Zaika" id="220" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Met in 2006, when Zaika was head of the Ukrainian Construction Consortium" />
+          <attvalue for="1" value="http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html" />
+        </attvalues>
+      </edge>
+      <edge source="Felipe Yaryura" target="Donald J. Trump" id="221" weight="1">
+        <attvalues>
+          <attvalue for="0" value="The Argentine real estate developer is said to be friends with the Trump family" />
+          <attvalue for="1" value="http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump" />
+        </attvalues>
+      </edge>
+      <edge source="Felipe Yaryura" target="Ivanka Trump" id="222" weight="1">
+        <attvalues>
+          <attvalue for="0" value="The Argentine real estate developer is said to be friends with the Trump family" />
+          <attvalue for="1" value="http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump" />
+        </attvalues>
+      </edge>
+      <edge source="Felipe Yaryura" target="Donald Trump Jr." id="223" weight="1">
+        <attvalues>
+          <attvalue for="0" value="The Argentine real estate developer is said to be friends with the Trump family" />
+          <attvalue for="1" value="http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump" />
+        </attvalues>
+      </edge>
+      <edge source="Cindy Simms" target="Donald J. Trump" id="224" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534338-Simms-Cindy.html" />
+        </attvalues>
+      </edge>
+      <edge source="Richard Goettlich" target="Jared Kushner" id="225" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Kushner hired him for his real estate company" />
+          <attvalue for="1" value="https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company" />
+        </attvalues>
+      </edge>
+      <edge source="Don Mcgahn" target="Donald J. Trump" id="226" weight="1">
+        <attvalues>
+          <attvalue for="0" value="White House Counsel" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Don Mcgahn" target="Aaron Schock" id="227" weight="1">
+        <attvalues>
+          <attvalue for="0" value="McGahn provided legal services for Schock" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3535093-McGahn-Donald-F.html" />
+        </attvalues>
+      </edge>
+      <edge source="Don Mcgahn" target="David Morrell" id="228" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Associate Counsel to the President" />
+          <attvalue for="1" value="http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/" />
+        </attvalues>
+      </edge>
+      <edge source="Don Mcgahn" target="Greg Katsas" id="229" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy Counsel to the President" />
+          <attvalue for="1" value="http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/" />
+        </attvalues>
+      </edge>
+      <edge source="Don Mcgahn" target="Annie Donaldson" id="230" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special Counsel to the President, Chief of Staff to the White House Counsel" />
+          <attvalue for="1" value="http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/" />
+        </attvalues>
+      </edge>
+      <edge source="Don Mcgahn" target="Shannon Mcgahn" id="231" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Don Mcgahn" target="Blake Delaplane" id="232" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant to the White House Counsel" />
+          <attvalue for="1" value="http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/" />
+        </attvalues>
+      </edge>
+      <edge source="Don Mcgahn" target="James Burnham" id="233" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Senior associate counsel" />
+          <attvalue for="1" value="http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/" />
+        </attvalues>
+      </edge>
+      <edge source="Annie Donaldson" target="Aaron Schock" id="234" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Provided legal services for" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534049-Donaldson-Ann.html" />
+        </attvalues>
+      </edge>
+      <edge source="Andy Puzder" target="Donald J. Trump" id="235" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former nominee for Secretary of Labor" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Andy Puzder" target="William P. Foley" id="236" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Worked together on deal to turn around debts of Carl's Jr. founder, which was a major success in Puzder's career" />
+          <attvalue for="1" value="http://www.insidesources.com/meet-the-fast-food-ceo-trump-picked-as-labor-secretary/" />
+        </attvalues>
+      </edge>
+      <edge source="Harold G. Hamm" target="Scott Pruitt" id="237" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Hamm, chief executive of Continental Energy, was Pruitt's 2013 re-election co-chair" />
+          <attvalue for="1" value="http://www.cnbc.com/2016/12/08/scott-pruitt-is-great-pick-to-lead-epa-says-pruitt-ally-harold-hamm.html" />
+        </attvalues>
+      </edge>
+      <edge source="Jessica Ditto" target="Donald J. Trump" id="238" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy communications director" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Jessica Ditto" target="Matthew Griswold Bevin" id="239" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Ditto was the communications director for Bevin's office" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534035-Ditto-Jessica.html" />
+        </attvalues>
+      </edge>
+      <edge source="Sergey I. Kislyak" target="Donald J. Trump" id="240" weight="1">
+        <attvalues>
+          <attvalue for="0" value="The Russian diplomat sat in on Trump foreign policy speech in April 2016" />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html" />
+        </attvalues>
+      </edge>
+      <edge source="Catherine Bray Griffith" target="Wells Griffith" id="241" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="https://www.theguardian.com/commentisfree/2017/feb/02/corporate-dark-money-power-atlantic-lobbyists-brexit" />
+        </attvalues>
+      </edge>
+      <edge source="Christine Chao" target="Elaine Chao" id="242" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick" />
+        </attvalues>
+      </edge>
+      <edge source="Christine Chao" target="James S.C. Chao" id="243" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick" />
+        </attvalues>
+      </edge>
+      <edge source="James S.C. Chao" target="Elaine Chao" id="244" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick" />
+        </attvalues>
+      </edge>
+      <edge source="James S.C. Chao" target="Angela Chao" id="245" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick" />
+        </attvalues>
+      </edge>
+      <edge source="Elaine Chao" target="Angela Chao" id="246" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick" />
+        </attvalues>
+      </edge>
+      <edge source="George T. Conway Iii" target="Kellyanne Conway" id="247" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Alex Shnaider" target="Donald J. Trump" id="248" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Trump’s primary partner for his lucrative business in Canada,&quot; per Newsweek" />
+          <attvalue for="1" value="http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html" />
+        </attvalues>
+      </edge>
+      <edge source="Julia Hahn" target="Stephen Miller" id="249" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Miller sent tips to Hahn, a Breitbart reporter" />
+          <attvalue for="1" value="http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992" />
+        </attvalues>
+      </edge>
+      <edge source="Patrick Caddell" target="Robert Mercer" id="250" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;At least as far back as 2013 [Caddell] has been a contractor for one of Trump’s biggest financial backers: Robert Mercer,&quot; per The New Yorker" />
+          <attvalue for="1" value="http://www.newyorker.com/magazine/2017/03/27/the-reclusive-hedge-fund-tycoon-behind-the-trump-presidency" />
+        </attvalues>
+      </edge>
+      <edge source="Walter J. &quot;jay&quot; Clayton Iii" target="Donald J. Trump" id="251" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Nominee for SEC Chairman" />
+          <attvalue for="1" value="http://www.newyorker.com/magazine/2017/03/13/donald-trumps-worst-deal" />
+        </attvalues>
+      </edge>
+      <edge source="Roger Khafif" target="Donald J. Trump" id="252" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Told Russian buyers he was a partner in Trump project in Sunny Isles, Fla." />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html" />
+        </attvalues>
+      </edge>
+      <edge source="Paul Winfree" target="Donald J. Trump" id="253" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy director of the domestic policy council" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534344-Winfree-Paul.html" />
+        </attvalues>
+      </edge>
+      <edge source="Yury Zaytsev" target="Sergei Millian" id="254" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Went on trip to Moscow together in 2011" />
+          <attvalue for="1" value="https://www.ft.com/content/ea52a678-9cfb-11e6-8324-be63473ce146" />
+        </attvalues>
+      </edge>
+      <edge source="Sergei Millian" target="Donald J. Trump" id="255" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Appeared in a Facebook photo together in 2014" />
+          <attvalue for="1" value="https://www.ft.com/content/ea52a678-9cfb-11e6-8324-be63473ce146" />
+        </attvalues>
+      </edge>
+      <edge source="Sergei Millian" target="Vladimir Putin" id="256" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Putin awarded Millian a prize in Jan. 2015 for developing ties between Russia and American businesspeople" />
+          <attvalue for="1" value="https://www.ft.com/content/ea52a678-9cfb-11e6-8324-be63473ce146" />
+        </attvalues>
+      </edge>
+      <edge source="Jack Weisselberg" target="Allen Weisselberg" id="257" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="https://www.nytimes.com/2016/05/24/business/dealbook/donald-trump-relationship-bankers.html?_r=0" />
+        </attvalues>
+      </edge>
+      <edge source="Xi Jinping" target="Terry Branstad" id="258" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Brandstad and the Chinese president have a &quot;friendship dating back to 1985,&quot; per Bloomberg Politics" />
+          <attvalue for="1" value="https://www.bloomberg.com/politics/articles/2016-12-07/trump-said-to-pick-iowa-governor-branstad-as-china-ambassador" />
+        </attvalues>
+      </edge>
+      <edge source="Boris Epshteyn" target="Donald J. Trump" id="259" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Assistant director of communications" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534046-Epshteyn-Boris.html" />
+        </attvalues>
+      </edge>
+      <edge source="John Gore" target="Jeff Sessions" id="260" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy assistant AG for Civil Rights" />
+          <attvalue for="1" value="http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/" />
+        </attvalues>
+      </edge>
+      <edge source="Jeff Sessions" target="Ajit Pai" id="261" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former deputy chief counsel" />
+          <attvalue for="1" value="https://www.fcc.gov/about/leadership/ajit-pai" />
+        </attvalues>
+      </edge>
+      <edge source="Bethany Scully" target="Donald J. Trump" id="262" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534336-Scully-Bethany.html" />
+        </attvalues>
+      </edge>
+      <edge source="Ike Perlmutter" target="Donald J. Trump" id="263" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Perlmutter &quot;has been informally advising Mr. Trump on veterans issues,&quot; per the New York Times" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1" />
+        </attvalues>
+      </edge>
+      <edge source="Seryl Kushner" target="Nicole Kushner Meyer" id="264" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/" />
+        </attvalues>
+      </edge>
+      <edge source="Nicole Kushner Meyer" target="Jared Kushner" id="265" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/" />
+        </attvalues>
+      </edge>
+      <edge source="Joshua Kushner" target="Jared Kushner" id="266" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Joshua Kushner" target="Nicole Kushner Meyer" id="267" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/" />
+        </attvalues>
+      </edge>
+      <edge source="Dara Orbach" target="Jared Kushner" id="268" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/" />
+        </attvalues>
+      </edge>
+      <edge source="Dara Orbach" target="Seryl Kushner" id="269" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/" />
+        </attvalues>
+      </edge>
+      <edge source="Dara Orbach" target="Nicole Kushner Meyer" id="270" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/" />
+        </attvalues>
+      </edge>
+      <edge source="Dara Orbach" target="Joshua Kushner" id="271" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Siblings" />
+          <attvalue for="1" value="http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/" />
+        </attvalues>
+      </edge>
+      <edge source="Bob Dole" target="Robert Lighthizer" id="272" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Lighthizer was Dole's campaign treasurer in 1996" />
+          <attvalue for="1" value="http://www.pbs.org/newshour/rundown/trump-nominates-robert-lighthizer-u-s-trade-representative/" />
+        </attvalues>
+      </edge>
+      <edge source="Steven Roth" target="Donald J. Trump" id="273" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former campaign advisor, going to co-head infrastructure council" />
+          <attvalue for="1" value="http://www.huffingtonpost.com/entry/donald-trump-steven-roth-meeeting_us_587917f8e4b09281d0eaa28e | https://www.wsj.com/articles/donald-trump-asks-richard-lefrak-steven-roth-to-monitor-infrastructure-plans-costs-1484591989 | https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company" />
+        </attvalues>
+      </edge>
+      <edge source="Recep Tayyip Erdogan" target="Donald J. Trump" id="274" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Erdogan, the president of Turkey and a vocal Trump supporter, met him during the ribbon-cutting of a Trump property" />
+          <attvalue for="1" value="http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html" />
+        </attvalues>
+      </edge>
+      <edge source="Ben Carson" target="Donald J. Trump" id="275" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of HUD" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Ben Carson" target="Barry Bennett" id="276" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Bennet was Carson's presidential campaign manager" />
+          <attvalue for="1" value="https://www.washingtonpost.com/news/post-politics/wp/2016/01/22/former-carson-campaign-manager-barry-bennett-is-quietly-advising-trumps-top-aides/?utm_term=.795d808dc8d2" />
+        </attvalues>
+      </edge>
+      <edge source="Dmytro Firtash" target="Paul Manafort" id="277" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Manafort and Firtash, &quot;an oligarch who made billions as a middleman for Gazprom,&quot; were partners in &quot;a deal to buy the site of the Drake Hotel on Park Avenue in Manhattan,&quot; per the New York Times" />
+          <attvalue for="1" value="https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html" />
+        </attvalues>
+      </edge>
+      <edge source="Pam Mulvaney" target="Mick Mulvaney" id="278" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="http://www.usnews.com/news/articles/2011/02/22/10-things-you-didnt-know-about-mick-mulvaney" />
+        </attvalues>
+      </edge>
+      <edge source="Mick Mulvaney" target="Donald J. Trump" id="279" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of Office of Management and Budget" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="George Gigicos" target="Donald J. Trump" id="280" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of advance" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534048-Gigicos-George.html" />
+        </attvalues>
+      </edge>
+      <edge source="Mitch Mcconnell" target="Andrew Bremberg" id="281" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Policy advisor and counsel on nominations" />
+          <attvalue for="1" value="https://www.linkedin.com/in/andrew-bremberg-7170938" />
+        </attvalues>
+      </edge>
+      <edge source="Mitch Mcconnell" target="Elaine Chao" id="282" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="http://elainelchao.com/biography/" />
+        </attvalues>
+      </edge>
+      <edge source="Mitch Mcconnell" target="W.E.“ed” Bosarge" id="283" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Major campaign donor" />
+          <attvalue for="1" value="http://www.politico.com/tipsheets/prescription-pulse/2016/05/new-legislation-on-stem-cells-raises-alarm-214069" />
+        </attvalues>
+      </edge>
+      <edge source="Madeleine Westerhout" target="Donald J. Trump" id="284" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Executive assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534343-Westerhout-Madeleine.html" />
+        </attvalues>
+      </edge>
+      <edge source="Madeleine Westerhout" target="Rhona Graff Riccio" id="285" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Riccio helped train Westerhout, per the New York Times" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/03/27/us/rhona-graff-donald-trump.html?_r=0" />
+        </attvalues>
+      </edge>
+      <edge source="Rhona Graff Riccio" target="Donald J. Trump" id="286" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Assistant" />
+          <attvalue for="1" value="http://www.nytimes.com/1993/04/19/style/weddings-rhona-c-graff-lucius-j-riccio.html" />
+        </attvalues>
+      </edge>
+      <edge source="Rhona Graff Riccio" target="Lucius Joseph Riccio" id="287" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Sean Cairncross" target="Donald J. Trump" id="288" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy assistant" />
+          <attvalue for="1" value="http://www.politico.com/story/2017/01/trump-transition-white-house-hires-233863" />
+        </attvalues>
+      </edge>
+      <edge source="Sean Cairncross" target="Reince Priebus" id="289" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Senior advisor" />
+          <attvalue for="1" value="http://www.politico.com/story/2017/01/trump-transition-white-house-hires-233863" />
+        </attvalues>
+      </edge>
+      <edge source="Joseph Hagin" target="Donald J. Trump" id="290" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy chief of staff" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534458-Hagin-Joseph.html" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen A. Feinberg" target="Donald J. Trump" id="291" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Member of Trump's economic advisory council" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/02/15/us/politics/trump-intelligence-agencies-stephen-feinberg.html" />
+        </attvalues>
+      </edge>
+      <edge source="Tom Price" target="Donald J. Trump" id="292" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of Health and Human Services" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Bernard R. Diamond" target="Donald Trump Jr." id="293" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Business partners" />
+          <attvalue for="1" value="Nexis" />
+        </attvalues>
+      </edge>
+      <edge source="Joseph Meyer" target="Nicole Kushner Meyer" id="294" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="http://nymag.com/daily/intelligencer/2013/01/jared-kushner-names-brother-in-law-observer-ceo.html" />
+        </attvalues>
+      </edge>
+      <edge source="Rick Perry" target="Donald J. Trump" id="295" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of Energy" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Rick Perry" target="Peter Holt" id="296" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Perry consulted for Holt, after governorship to which Holt gave money" />
+          <attvalue for="1" value="https://www.texastribune.org/2015/07/10/perry-consulting-big-donor-disclosures/" />
+        </attvalues>
+      </edge>
+      <edge source="Rick Perry" target="Anita Thigpen Perry" id="297" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="http://thehill.com/policy/healthcare/182135-perrys-addition-to-the-white-house-his-wife-health-advocate-anita-perry" />
+        </attvalues>
+      </edge>
+      <edge source="Justin Clark" target="Donald J. Trump" id="298" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of inter-governmental affairs" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534079-Clark-Justin.html" />
+        </attvalues>
+      </edge>
+      <edge source="Lindsay Walters" target="Donald J. Trump" id="299" weight="1">
+        <attvalues>
+          <attvalue for="0" value="White House spokeswoman" />
+          <attvalue for="1" value="https://www.bloomberg.com/politics/articles/2017-02-03/trump-trade-pick-could-negotiate-for-industry-of-biggest-client" />
+        </attvalues>
+      </edge>
+      <edge source="Nicolas Sarkozy" target="Thomas J. Barrack Jr." id="300" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Sarkozy awarded France's Chevalier de la Légion d'Honneur to Barrack" />
+          <attvalue for="1" value="http://colonyinc.com/about#fulltext4" />
+        </attvalues>
+      </edge>
+      <edge source="Vince Haley" target="Donald J. Trump" id="301" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Advisor for policy, strategy, and speechwriting" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534112-Haley-Vincent.html" />
+        </attvalues>
+      </edge>
+      <edge source="David M. Friedman" target="Donald J. Trump" id="302" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Ambassador designate to Israel" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/02/11/us/politics/jared-kushner-israel.html?smid=tw-nytimesworld&amp;smtyp=cur&amp;_r=1" />
+        </attvalues>
+      </edge>
+      <edge source="James Mattis" target="Donald J. Trump" id="303" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of Defense" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Ross Worthington" target="Donald J. Trump" id="304" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Advisor for policy, strategy, and speechwriting" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534345-Worthington-Ross.html" />
+        </attvalues>
+      </edge>
+      <edge source="Arthur G. Cohen" target="Paul Manafort" id="305" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;negotiated a deal to buy the site of the Drake Hotel on Park Avenue in Manhattan,&quot; per the New York Times" />
+          <attvalue for="1" value="https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html" />
+        </attvalues>
+      </edge>
+      <edge source="Robert Kraft" target="Donald J. Trump" id="306" weight="1">
+        <attvalues>
+          <attvalue for="0" value="A top touchstone outside the White House, according to the New York Times" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1" />
+        </attvalues>
+      </edge>
+      <edge source="Kalpesh Mehta" target="Donald J. Trump" id="307" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;exclusive representative of Trump's businesses in India,&quot; per Newsweek" />
+          <attvalue for="1" value="http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html" />
+        </attvalues>
+      </edge>
+      <edge source="Aydin Dogan" target="Mehmet Ali Yalcindag" id="308" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Father-in-law/son-in-law" />
+          <attvalue for="1" value="http://www.hurriyetdailynews.com/a-major-shake-up-at-dogan-media.aspx?PageID=238&amp;NID=104450&amp;NewsCatID=345" />
+        </attvalues>
+      </edge>
+      <edge source="Peter Navarro" target="Donald J. Trump" id="309" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Head of National Trade Council" />
+          <attvalue for="1" value="http://www.businessinsider.com/peter-navarro-trump-administration-2017-4" />
+        </attvalues>
+      </edge>
+      <edge source="Kathleen Troia Mcfarland" target="Donald J. Trump" id="310" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy National Security Advisor" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Miles Berger" target="Jared Kushner" id="311" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;business partner of the Kushners,&quot; per New York Magazine" />
+          <attvalue for="1" value="http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html" />
+        </attvalues>
+      </edge>
+      <edge source="Michael D. Cohen" target="Donald J. Trump" id="312" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Cohen is Trump's personal attorney" />
+          <attvalue for="1" value="https://www.washingtonpost.com/news/post-politics/wp/2017/01/19/michael-cohen-special-counsel-to-donald-trump-will-follow-him-to-washington/?utm_term=.bea39093a642" />
+        </attvalues>
+      </edge>
+      <edge source="Ginni Rometty" target="Donald J. Trump" id="313" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Member of Trump's Strategic and Policy forum" />
+          <attvalue for="1" value="http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/" />
+        </attvalues>
+      </edge>
+      <edge source="Stephanie Grisham" target="Donald J. Trump" id="314" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy press secretary" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534109-Grisham-Stephanie.html" />
+        </attvalues>
+      </edge>
+      <edge source="Vladimir Putin" target="Alexander Novak" id="315" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Energy minister" />
+          <attvalue for="1" value="https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71" />
+        </attvalues>
+      </edge>
+      <edge source="Lev Leviev" target="Vladimir Putin" id="316" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Described him as a &quot;true friend&quot;" />
+          <attvalue for="1" value="http://www.nytimes.com/2007/09/16/magazine/16Leviev-t.html" />
+        </attvalues>
+      </edge>
+      <edge source="Martin Sorrell" target="Jared Kushner" id="317" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Friends" />
+          <attvalue for="1" value="http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html" />
+        </attvalues>
+      </edge>
+      <edge source="Sean Spicer" target="Donald J. Trump" id="318" weight="1">
+        <attvalues>
+          <attvalue for="0" value="White House Press Secretary" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Mangal Prabhat Lodha" target="Donald J. Trump" id="319" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Business partners" />
+          <attvalue for="1" value="http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html" />
+        </attvalues>
+      </edge>
+      <edge source="Asher Abehsera" target="Jared Kushner" id="320" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Partnered with Kushner in Brooklyn projects" />
+          <attvalue for="1" value="http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html" />
+        </attvalues>
+      </edge>
+      <edge source="Joseph Kellogg" target="Donald J. Trump" id="321" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Chief of staff and executive secretary, National Security Council" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534037-Kellogg-Joseph-K.html" />
+        </attvalues>
+      </edge>
+      <edge source="Dan Scavino" target="Donald J. Trump" id="322" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Director of Social Media, White House" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3535097-Scavino-Dan.html" />
+        </attvalues>
+      </edge>
+      <edge source="Jeremy Katz" target="Donald J. Trump" id="323" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Deputy director of the National Economic Council" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534036-Katz-Jeremy.html" />
+        </attvalues>
+      </edge>
+      <edge source="Sergey Kislyak" target="Michael Flynn" id="324" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;in frequent contact,&quot; per Jan. 13, 2017 Associated Press article" />
+          <attvalue for="1" value="http://bigstory.ap.org/article/ba462d64c12d4692b8381cb7076d34ab/ap-source-trump-aide-frequent-contact-russia-envoy" />
+        </attvalues>
+      </edge>
+      <edge source="Rex Tillerson" target="Donald J. Trump" id="325" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Secretary of State" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Rex Tillerson" target="Vladimir Putin" id="326" weight="1">
+        <attvalues>
+          <attvalue for="0" value="In 2012, Putin awarded Order of Friendship to Tillerson" />
+          <attvalue for="1" value="http://www.politico.com/magazine/story/2016/12/rex-tillerson-exxon-putin-russia-ties-friend-214515" />
+        </attvalues>
+      </edge>
+      <edge source="Rex Tillerson" target="Alexander Novak" id="327" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Tillerson lowered his profile in Russia but continued to meet with non-sanctioned high-level Russian officials in Moscow, including Russian Energy Minister Alexander Novak,&quot; per the Washington Post" />
+          <attvalue for="1" value="https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71" />
+        </attvalues>
+      </edge>
+      <edge source="Rex Tillerson" target="Igor Sechin" id="328" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Tillerson, the CEO of ExxonMobil, has a close and personal relationship with Sechin dating back over a decade,&quot; per the Washington Post" />
+          <attvalue for="1" value="https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71" />
+        </attvalues>
+      </edge>
+      <edge source="Igor Sechin" target="Vladimir Putin" id="329" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former deputy prime minister" />
+          <attvalue for="1" value="https://www.ft.com/content/a8f24922-cef4-11e3-9165-00144feabdc0" />
+        </attvalues>
+      </edge>
+      <edge source="Aras Agalarov" target="Donald J. Trump" id="330" weight="1">
+        <attvalues>
+          <attvalue for="0" value="The billionaire real estate developer says he befriended Trump, and also has served as a liaison between Trump and Putin" />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html | http://www.forbes.com/profile/aras-agalarov/" />
+        </attvalues>
+      </edge>
+      <edge source="Aras Agalarov" target="Emin Agalarov" id="331" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html?utm_term=.0cb035ebfc6b" />
+        </attvalues>
+      </edge>
+      <edge source="Christine Ciccone" target="Donald J. Trump" id="332" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Leader&quot; in the transition team per CNN" />
+          <attvalue for="1" value="http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/" />
+        </attvalues>
+      </edge>
+      <edge source="Newt Gingrich" target="Donald J. Trump" id="333" weight="1">
+        <attvalues>
+          <attvalue for="0" value="A top touchstone outside the White House, according to the New York Times" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1" />
+        </attvalues>
+      </edge>
+      <edge source="Carter Page" target="Donald J. Trump" id="334" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Foreign policy adviser" />
+          <attvalue for="1" value="General knowledge" />
+        </attvalues>
+      </edge>
+      <edge source="Carl C. Icahn" target="Donald J. Trump" id="335" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Special advisor" />
+          <attvalue for="1" value="http://fortune.com/2016/12/21/donald-trump-carl-icahn-special-adviser-regulations/" />
+        </attvalues>
+      </edge>
+      <edge source="Chris Christie" target="Bill Stepien" id="336" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former deputy chief of staff" />
+          <attvalue for="1" value="http://www.politico.com/story/2017/01/bill-stepien-donald-trump-christie-233199" />
+        </attvalues>
+      </edge>
+      <edge source="Chris Christie" target="David Wildstein" id="337" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Christie and Wildstein went to high school together, and Christie appointed Wildstein to a director position at the Port Authority" />
+          <attvalue for="1" value="http://nymag.com/daily/intelligencer/2016/09/david-wildstein-chris-christie-bridgegate-trial.html" />
+        </attvalues>
+      </edge>
+      <edge source="Rick Dearborn" target="Jeff Sessions" id="338" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former chief of staff" />
+          <attvalue for="1" value="http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/" />
+        </attvalues>
+      </edge>
+      <edge source="Dina Powell" target="Ivanka Trump" id="339" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Ivanka Trump &quot;has been leaning on [Powell] ... as a top adviser on policy and staffing,&quot; per Politico" />
+          <attvalue for="1" value="http://www.politico.com/story/2017/01/ivanka-trump-goldman-sachs-233234" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen Miller" target="Jeff Sessions" id="340" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former chief of communications" />
+          <attvalue for="1" value="http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen Miller" target="Sam Nunberg" id="341" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Friends" />
+          <attvalue for="1" value="http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992" />
+        </attvalues>
+      </edge>
+      <edge source="Melania Trump" target="Lindsey Reynolds" id="342" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Chief of staff" />
+          <attvalue for="1" value="http://www.politico.com/story/2017/02/donald-trump-challenges-governing-presidency-234879" />
+        </attvalues>
+      </edge>
+      <edge source="Stephen B. Meister" target="Jason D. Meister" id="343" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Parent/child" />
+          <attvalue for="1" value="https://therealdeal.com/issues_articles/whos-jumping-ship/" />
+        </attvalues>
+      </edge>
+      <edge source="Michelle Bachmann" target="Stephen Miller" id="344" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Worked for her" />
+          <attvalue for="1" value="http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992" />
+        </attvalues>
+      </edge>
+      <edge source="John Kyl" target="Jeff Sessions" id="345" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Kyl was Sessions's &quot;sherpa&quot; for confirmation hearings" />
+          <attvalue for="1" value="http://www.azcentral.com/story/news/politics/azdc/2017/01/13/jon-kyl-helping-jeff-sessions-confirmation-hearing-attorney-general/96558516/" />
+        </attvalues>
+      </edge>
+      <edge source="Yousef Al-otaiba" target="Thomas J. Barrack Jr." id="346" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Friend&quot; per the New York Times" />
+          <attvalue for="1" value="https://www.nytimes.com/2017/02/11/us/politics/jared-kushner-israel.html?smid=tw-nytimesworld&amp;smtyp=cur&amp;_r=1" />
+        </attvalues>
+      </edge>
+      <edge source="Avrahm Berkowitz" target="Jared Kushner" id="347" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Assistant" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534232-Berkowitz-Avrahm-J.html" />
+        </attvalues>
+      </edge>
+      <edge source="Susan Pompeo" target="Michael Pompeo" id="348" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Married" />
+          <attvalue for="1" value="http://pompeo.house.gov/biography/" />
+        </attvalues>
+      </edge>
+      <edge source="Viktor Tkachuk" target="Ivanka Trump" id="349" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Met in 2006, when Tkachuk was an adviser to the Ukrainian president" />
+          <attvalue for="1" value="http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html" />
+        </attvalues>
+      </edge>
+      <edge source="Viktor Tkachuk" target="Donald Trump Jr." id="350" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Met in 2006, when Tkachuk was an adviser to the Ukrainian president" />
+          <attvalue for="1" value="http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html" />
+        </attvalues>
+      </edge>
+      <edge source="Tucker Carlson" target="Stephen Miller" id="351" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Miller set up meeting between Carlson and Sessions" />
+          <attvalue for="1" value="http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992" />
+        </attvalues>
+      </edge>
+      <edge source="Justin Weniger" target="Jared Kushner" id="352" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Friends" />
+          <attvalue for="1" value="http://www.businessinsider.com/jared-kushner-trump-media-mogul-observer-2016-12" />
+        </attvalues>
+      </edge>
+      <edge source="Eric Holcomb" target="Kellyanne Conway" id="353" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Conway provided consulting services to Holcomb" />
+          <attvalue for="1" value="https://www.documentcloud.org/documents/3534450-Conway-Kellyanne.html" />
+        </attvalues>
+      </edge>
+      <edge source="Michael Murray" target="Jeff Sessions" id="354" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Counsel to the Deputy Attorney General" />
+          <attvalue for="1" value="http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/" />
+        </attvalues>
+      </edge>
+      <edge source="Abdul Rahman Al-assir" target="Paul Manafort" id="355" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Manafort secured a loan from al-Assir" />
+          <attvalue for="1" value="https://www.washingtonpost.com/politics/in-business-as-in-politics-trump-adviser-no-stranger-to-controversial-figures/2016/04/26/970db232-08c7-11e6-b283-e79d81c63c1b_story.html?utm_term=.de35331c8594" />
+        </attvalues>
+      </edge>
+      <edge source="Caroline May" target="Stephen Miller" id="356" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Miller sent tips to May, a Breitbart reporter" />
+          <attvalue for="1" value="http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992" />
+        </attvalues>
+      </edge>
+      <edge source="David Horowitz" target="Stephen Miller" id="357" weight="1">
+        <attvalues>
+          <attvalue for="0" value="&quot;Miller considers Horowitz a mentor,&quot; per Politico" />
+          <attvalue for="1" value="http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992" />
+        </attvalues>
+      </edge>
+      <edge source="Garrett Murch" target="Jeff Sessions" id="358" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former communications advisor" />
+          <attvalue for="1" value="http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992 | https://www.linkedin.com/in/garrett-murch-9800b928" />
+        </attvalues>
+      </edge>
+      <edge source="Margaret Chin" target="Jared Kushner" id="359" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Donor" />
+          <attvalue for="1" value="http://thevillager.com/2013/07/25/the-billionaires-back-margaret-chin-for-city-council/" />
+        </attvalues>
+      </edge>
+      <edge source="Stephanie Winston Wolkoff" target="Melania Trump" id="360" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Senior adviser" />
+          <attvalue for="1" value="http://www.politico.com/story/2017/02/donald-trump-challenges-governing-presidency-234879" />
+        </attvalues>
+      </edge>
+      <edge source="Paulo Figueiredo Filho" target="Ivanka Trump" id="361" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Lunched together, spawning Trump interest in Rio hotel" />
+          <attvalue for="1" value="http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html" />
+        </attvalues>
+      </edge>
+      <edge source="Mike Ferguson" target="Andrew Bremberg" id="362" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Bremberg &quot;is a lifelong friend&quot; of Ferguson, a former U.S. House representative, per Stat" />
+          <attvalue for="1" value="https://www.statnews.com/2016/11/15/trump-influencers-health-care/" />
+        </attvalues>
+      </edge>
+      <edge source="Ryan Doherty" target="Jared Kushner" id="363" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Friends" />
+          <attvalue for="1" value="http://www.businessinsider.com/jared-kushner-trump-media-mogul-observer-2016-12" />
+        </attvalues>
+      </edge>
+      <edge source="Avram Lebor" target="Jared Kushner" id="364" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Kushner hired him for his real estate company" />
+          <attvalue for="1" value="https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company" />
+        </attvalues>
+      </edge>
+      <edge source="Sam Brownback" target="Ajit Pai" id="365" weight="1">
+        <attvalues>
+          <attvalue for="0" value="Former chief counsel" />
+          <attvalue for="1" value="https://www.fcc.gov/about/leadership/ajit-pai" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
